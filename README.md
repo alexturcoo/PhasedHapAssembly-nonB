@@ -36,6 +36,9 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 7. `process_gquad_beds_quadron.py` - Script to process collapsed bed files from Quadron and obtain metrics of G-quadruplex (Motif Counts, Bases Covered by Motif, and Percentage of Genome covered) for each haplotype
 8. `process_gquad_beds_quadron.sh` - Associated shell script to run the python script
 9. `bedtools_intersect.sh` - Intersect all haplotypes with reference and find common regions across motifs
+10. `find_nonb_motifs_haplotype_array.sh` - Script to annotate phased haplotype assemblies (alignments) using the non-b gfa tool (nBMST)
+11. `run_quadron.sh` - Script to annotate phased haplotype assemblies (alignments) using quadron
+12. `run_quadron_haplotigs.sh` - Script to annotate phased haplotype assemblies (haplotigs) using quadron
 
 # Analysis Scripts
 1. `examine_nonb_annoations.ipynb` - A jupyter notebook with analysis of Phased Haplotype assembly non-b motif annotations
