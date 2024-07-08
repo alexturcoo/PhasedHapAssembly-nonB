@@ -1,6 +1,27 @@
 # PhasedHapAssembly-nonB
 Non-B DNA motif annotation across high quality phased haplotype assemblies
 
+# Haplotype Assembly Data Utilized for annotations
+
+| Annotation Tool | Alignment Reference | Batch                    | Number of Haplotypes | Location |
+|-----------------|---------------------|--------------------------|----------------------|----------|
+| nBMST           | chm13               | 20230818_verkko_batch1   | 76                   |          |
+| nBMST           | chm13               | 20230927_verkko_batch2   | 30                   |          |
+| nBMST           | chm13               | 20240201_verkko_batch3   | 24                   |          |
+| **Total**       |                     |                          | **130**              |          |
+| nBMST           | hg38                | 20230818_verkko_batch1   | 76                   |          |
+| nBMST           | hg38                | 20230927_verkko_batch2   | 30                   |          |
+| nBMST           | hg38                | 20240201_verkko_batch3   | 24                   |          |
+| **Total**       |                     |                          | **130**              |          |
+| Quadron         | chm13               | 20230818_verkko_batch1   | 76                   |          |
+| Quadron         | chm13               | 20230927_verkko_batch2   | 30                   |          |
+| Quadron         | chm13               | 20240201_verkko_batch3   | 24                   |          |
+| **Total**       |                     |                          | **130**              |          |
+| Quadron         | hg38                | 20230818_verkko_batch1   | 76                   |          |
+| Quadron         | hg38                | 20230927_verkko_batch2   | 30                   |          |
+| Quadron         | hg38                | 20240201_verkko_batch3   | 24                   |          |
+| **Total**       |                     |                          | **130**              |          |
+
 # preprocessing_scripts
 1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype assemblies (BAM files) aligned to reference (chm13 or hg38), filter alignments to obtain ONLY primary reads, then split the bam file by chromosome and write each chromosome bam to a fasta file
 2. `nonoverlapping_motifs.sh` - Script to merge/collapse overlapping intervals for specific non-B motif annotations from non-B motif search tool (nBMST) (outputs collapsed bed file for each specific motif type from nBMST)
