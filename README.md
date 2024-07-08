@@ -7,5 +7,10 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 
 #annotation_scripts
 1. `process_bed_files.py` - Script to process collapsed bed files from nBMST and obtain metrics such as Motif Counts, Bases Covered by Motif, and Percentage of Genome covered by motif for each haplotype.
-2. `process_bed_files.sh` - Associated shell script to run the python script above
-3. `process_quadron_files.py` - 
+2. `process_bed_files.sh` - Associated shell script to run the python script
+3. `process_quadron_files.py` - Script to process .txt output from Quadron and format into dataframes with stability score greater than 19
+4. `process_quadron_files.sh` - Associated shell script to run the python script
+5. `quadron_to_bed.py` - Script to format quadron dataframes (Q > 19) into bed files, collapses annotations, and splits bed files based on G quadruplex Strand
+6. `quadron_to_bed.sh` - Associated shell script to run the python script
+7. `process_gquad_beds_quadron.py` - Script to process collapsed bed files from Quadron and obtain metrics of G-quadruplex (Motif Counts, Bases Covered by Motif, and Percentage of Genome covered) for each haplotype
+8. `process_gquad_beds_quadron.sh` - Associated shell script to run the python script
