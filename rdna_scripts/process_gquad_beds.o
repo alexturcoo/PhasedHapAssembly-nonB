@@ -1,0 +1,262 @@
+Processing directory: /home/alextu/scratch/rdna_analysis/collapsed_quadron_annotations_verkko123_rdna/chr22 with genome size: 926856
+Processing file: NA19384_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19384_rdna', 'Positive_G_Quad', 97, 3885, 0.4191589632046402)
+Processing file: NA20509_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA20509_rdna', 'Positive_G_Quad', 102, 4225, 0.45584211571161)
+Processing file: NA19705_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19705_rdna', 'Positive_G_Quad', 128, 5139, 0.5544550609803465)
+Processing file: HG00864_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00864_rdna', 'Positive_G_Quad', 107, 4543, 0.4901516524681288)
+Processing file: HG02587_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02587_rdna', 'Positive_G_Quad', 30, 1123, 0.12116229489802083)
+Processing file: HG03683_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03683_rdna', 'Negative_G_Quad', 195, 8364, 0.902405551671457)
+Processing file: HG02769_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02769_rdna', 'Negative_G_Quad', 203, 8871, 0.9571066055568502)
+Processing file: HG00733_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00733_rdna', 'Positive_G_Quad', 177, 7431, 0.8017426655273311)
+Processing file: HG03456_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03456_rdna', 'Negative_G_Quad', 57, 2361, 0.2547321266733991)
+Processing file: NA19238_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19238_rdna', 'Positive_G_Quad', 93, 3830, 0.4132249238285127)
+Processing file: HG02282_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02282_rdna', 'Negative_G_Quad', 113, 4910, 0.5297478788506521)
+Processing file: NA20509_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA20509_rdna', 'Negative_G_Quad', 155, 6576, 0.7094953261348041)
+Processing file: HG01596_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG01596_rdna', 'Negative_G_Quad', 139, 5769, 0.6224267847432611)
+Processing file: NA19238_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19238_rdna', 'Negative_G_Quad', 122, 5201, 0.5611443417316174)
+Processing file: HG03452_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03452_rdna', 'Positive_G_Quad', 69, 2757, 0.2974572101815169)
+Processing file: NA24385_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA24385_rdna', 'Positive_G_Quad', 205, 8486, 0.9155683299239581)
+Processing file: HG03065_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03065_rdna', 'Negative_G_Quad', 157, 6681, 0.7208239467619565)
+Processing file: HG03248_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03248_rdna', 'Negative_G_Quad', 82, 3569, 0.38506520969816244)
+Processing file: HG00358_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00358_rdna', 'Negative_G_Quad', 130, 5569, 0.6008484597391612)
+Processing file: NA19129_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19129_rdna', 'Positive_G_Quad', 169, 6929, 0.7475810697670404)
+Processing file: HG01457_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG01457_rdna', 'Positive_G_Quad', 30, 1240, 0.13378561502541927)
+Processing file: HG03009_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03009_rdna', 'Positive_G_Quad', 83, 3425, 0.36952881569521046)
+Processing file: NA19650_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19650_rdna', 'Positive_G_Quad', 230, 9581, 1.0337096593214048)
+Processing file: HG02666_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02666_rdna', 'Negative_G_Quad', 58, 2527, 0.272642136426802)
+Processing file: HG01352_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG01352_rdna', 'Positive_G_Quad', 205, 8487, 0.9156762215489784)
+Processing file: NA19317_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19317_rdna', 'Positive_G_Quad', 49, 2041, 0.22020680666683928)
+Processing file: NA18989_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA18989_rdna', 'Negative_G_Quad', 97, 4160, 0.44882916008527757)
+Processing file: HG02492_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02492_rdna', 'Positive_G_Quad', 95, 3936, 0.4246614360806857)
+Processing file: HG02011_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02011_rdna', 'Negative_G_Quad', 50, 2082, 0.22463036329267977)
+Processing file: HG02011_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02011_rdna', 'Positive_G_Quad', 39, 1567, 0.16906617640712257)
+Processing file: HG01457_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG01457_rdna', 'Negative_G_Quad', 43, 1902, 0.20520987078898986)
+Processing file: NA19036_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19036_rdna', 'Positive_G_Quad', 60, 2579, 0.278252500927868)
+Processing file: HG00512_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00512_rdna', 'Negative_G_Quad', 68, 2807, 0.3028517914325418)
+Processing file: HG02953_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02953_rdna', 'Negative_G_Quad', 274, 11914, 1.28542082049423)
+Processing file: HG00171_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00171_rdna', 'Positive_G_Quad', 90, 3627, 0.39132292394935136)
+Processing file: HG04036_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG04036_rdna', 'Positive_G_Quad', 53, 2111, 0.22775922041827426)
+Processing file: NA19836_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19836_rdna', 'Positive_G_Quad', 103, 4197, 0.452821150211036)
+Processing file: HG00864_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00864_rdna', 'Negative_G_Quad', 167, 7040, 0.7595570401443158)
+Processing file: NA19650_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19650_rdna', 'Negative_G_Quad', 339, 14990, 1.6172954590572861)
+Processing file: HG01352_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG01352_rdna', 'Negative_G_Quad', 299, 12686, 1.3687131550100555)
+Processing file: NA19240_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19240_rdna', 'Negative_G_Quad', 308, 13364, 1.441863676773954)
+Processing file: HG00268_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00268_rdna', 'Negative_G_Quad', 113, 4933, 0.5322293862261236)
+Processing file: HG01114_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG01114_rdna', 'Negative_G_Quad', 217, 9299, 1.003284221065624)
+Processing file: HG00731_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00731_rdna', 'Negative_G_Quad', 194, 8349, 0.9007871772961495)
+Processing file: NA19331_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19331_rdna', 'Positive_G_Quad', 64, 2567, 0.276957801427622)
+Processing file: HG02953_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02953_rdna', 'Positive_G_Quad', 180, 7446, 0.8033610399026386)
+Processing file: NA12329_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA12329_rdna', 'Negative_G_Quad', 112, 4802, 0.5180955833484382)
+Processing file: HG03807_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03807_rdna', 'Negative_G_Quad', 85, 3585, 0.3867914756984904)
+Processing file: HG02018_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02018_rdna', 'Negative_G_Quad', 166, 7487, 0.8077845965284791)
+Processing file: HG03807_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03807_rdna', 'Positive_G_Quad', 62, 2461, 0.26552128917544904)
+Processing file: NA19240_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19240_rdna', 'Positive_G_Quad', 227, 9329, 1.006520969816239)
+Processing file: NA19239_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19239_rdna', 'Negative_G_Quad', 186, 8120, 0.8760799951664553)
+Processing file: NA19036_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19036_rdna', 'Negative_G_Quad', 87, 3707, 0.3999542539509913)
+Processing file: NA20355_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA20355_rdna', 'Positive_G_Quad', 51, 2070, 0.22333566379243378)
+Processing file: NA18939_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA18939_rdna', 'Positive_G_Quad', 96, 3874, 0.41797215532941473)
+Processing file: HG03009_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03009_rdna', 'Negative_G_Quad', 120, 5152, 0.555857652105613)
+Processing file: HG04217_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG04217_rdna', 'Negative_G_Quad', 156, 6432, 0.6939589321318521)
+Processing file: HG02769_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02769_rdna', 'Positive_G_Quad', 144, 6018, 0.6492917993733655)
+Processing file: HG03371_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03371_rdna', 'Negative_G_Quad', 72, 3078, 0.3320904218130972)
+Processing file: HG03452_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03452_rdna', 'Negative_G_Quad', 88, 3907, 0.4215325789550912)
+Processing file: NA20847_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA20847_rdna', 'Positive_G_Quad', 89, 3590, 0.3873309338235929)
+Processing file: NA19317_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19317_rdna', 'Negative_G_Quad', 68, 3053, 0.32939313118758473)
+Processing file: HG00732_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00732_rdna', 'Positive_G_Quad', 349, 14516, 1.5661548287975693)
+Processing file: NA19331_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19331_rdna', 'Negative_G_Quad', 88, 3865, 0.4170011307042303)
+Processing file: HG03065_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03065_rdna', 'Positive_G_Quad', 118, 4864, 0.5247848640997091)
+Processing file: HG01573_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG01573_rdna', 'Negative_G_Quad', 247, 10760, 1.1609138852205736)
+Processing file: HG03732_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03732_rdna', 'Negative_G_Quad', 164, 6954, 0.7502783603925529)
+Processing file: HG04036_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG04036_rdna', 'Negative_G_Quad', 76, 3191, 0.3442821754404136)
+Processing file: HG02018_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02018_rdna', 'Positive_G_Quad', 120, 5130, 0.553484036355162)
+Processing file: HG02106_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02106_rdna', 'Positive_G_Quad', 326, 13389, 1.4445609673994666)
+Processing file: NA20847_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA20847_rdna', 'Negative_G_Quad', 123, 5257, 0.5671862727327653)
+Processing file: NA19434_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19434_rdna', 'Positive_G_Quad', 3, 136, 0.014673261002787921)
+Processing file: HG02818_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02818_rdna', 'Positive_G_Quad', 64, 2538, 0.27382894430202753)
+Processing file: NA19434_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19434_rdna', 'Negative_G_Quad', 6, 229, 0.024707182129694368)
+Processing file: HG03683_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03683_rdna', 'Positive_G_Quad', 141, 5855, 0.6317054644950241)
+Processing file: HG00513_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00513_rdna', 'Negative_G_Quad', 274, 11946, 1.2888733524948859)
+Processing file: HG00268_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00268_rdna', 'Positive_G_Quad', 82, 3389, 0.3656447171944725)
+Processing file: HG00096_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00096_rdna', 'Positive_G_Quad', 60, 2394, 0.2582925502990756)
+Processing file: NA12329_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA12329_rdna', 'Positive_G_Quad', 80, 3336, 0.35992646106838605)
+Processing file: HG02106_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02106_rdna', 'Negative_G_Quad', 440, 18855, 2.0342965897615164)
+Processing file: HG01505_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG01505_rdna', 'Positive_G_Quad', 253, 10619, 1.1457011660926832)
+Processing file: HG02059_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02059_rdna', 'Negative_G_Quad', 134, 5704, 0.6154138291169287)
+Processing file: NA19836_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19836_rdna', 'Negative_G_Quad', 137, 5984, 0.6456234841226685)
+Processing file: HG01505_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG01505_rdna', 'Negative_G_Quad', 371, 16377, 1.766941142960719)
+Processing file: NA20355_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA20355_rdna', 'Negative_G_Quad', 64, 2873, 0.3099726386838948)
+Processing file: HG00732_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00732_rdna', 'Negative_G_Quad', 469, 20247, 2.1844817317900516)
+Processing file: NA18534_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA18534_rdna', 'Positive_G_Quad', 144, 5987, 0.6459471589977299)
+Processing file: NA19129_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19129_rdna', 'Negative_G_Quad', 242, 10514, 1.1343725454655307)
+Processing file: HG03371_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03371_rdna', 'Positive_G_Quad', 53, 2123, 0.22905391991852025)
+Processing file: NA19983_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19983_rdna', 'Positive_G_Quad', 94, 3920, 0.4229351700803577)
+Processing file: HG03520_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG03520_rdna', 'Negative_G_Quad', 105, 4634, 0.4999697903449942)
+Processing file: HG02666_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02666_rdna', 'Positive_G_Quad', 44, 1825, 0.19690221566241142)
+Processing file: HG02282_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02282_rdna', 'Positive_G_Quad', 84, 3426, 0.36963670732023096)
+Processing file: NA19384_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19384_rdna', 'Negative_G_Quad', 118, 5253, 0.5667547062326834)
+Processing file: NA19705_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19705_rdna', 'Negative_G_Quad', 156, 6936, 0.7483363111421839)
+Processing file: HG01596_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG01596_rdna', 'Positive_G_Quad', 91, 3821, 0.4122538992033282)
+Processing file: HG00512_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00512_rdna', 'Positive_G_Quad', 44, 1718, 0.18535781178521799)
+Processing file: NA19347_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19347_rdna', 'Positive_G_Quad', 76, 3073, 0.3315509636879947)
+Processing file: HG02554_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02554_rdna', 'Positive_G_Quad', 124, 5047, 0.5445290314784604)
+Processing file: HG02059_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG02059_rdna', 'Positive_G_Quad', 90, 3748, 0.4043778105768318)
+Processing file: HG02492_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02492_rdna', 'Negative_G_Quad', 134, 5748, 0.6201610606178306)
+Processing file: NA21487_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA21487_rdna', 'Negative_G_Quad', 214, 9162, 0.9885030684378157)
+Processing file: NA18939_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA18939_rdna', 'Negative_G_Quad', 132, 5779, 0.6235057009934661)
+Processing file: HG01573_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG01573_rdna', 'Positive_G_Quad', 165, 6868, 0.7409996806407899)
+Processing file: HG00731_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00731_rdna', 'Positive_G_Quad', 141, 5742, 0.6195137108677076)
+Processing file: HG00514_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00514_rdna', 'Negative_G_Quad', 160, 7004, 0.7556729416435779)
+Processing file: NA24385_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA24385_rdna', 'Negative_G_Quad', 284, 12374, 1.3350509680036597)
+Processing file: HG00513_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00513_rdna', 'Positive_G_Quad', 189, 7843, 0.846194015035777)
+Processing file: NA19347_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19347_rdna', 'Negative_G_Quad', 98, 4336, 0.4678180860888855)
+Processing file: HG00171_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00171_rdna', 'Negative_G_Quad', 125, 5422, 0.5849883908611477)
+Processing file: HG00733_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00733_rdna', 'Negative_G_Quad', 255, 10888, 1.1747240132231975)
+Processing file: NA19983_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA19983_rdna', 'Negative_G_Quad', 132, 5775, 0.6230741344933841)
+Processing file: HG01114_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG01114_rdna', 'Positive_G_Quad', 151, 6127, 0.6610519865005998)
+Processing file: HG01890_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG01890_rdna', 'Negative_G_Quad', 85, 3612, 0.3897045495740439)
+Processing file: HG00358_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00358_rdna', 'Positive_G_Quad', 93, 3767, 0.40642775145222126)
+Processing file: HG03456_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03456_rdna', 'Positive_G_Quad', 40, 1663, 0.17942377240909052)
+Processing file: HG03248_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03248_rdna', 'Positive_G_Quad', 66, 2797, 0.30177287518233686)
+Processing file: HG04217_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG04217_rdna', 'Positive_G_Quad', 104, 4222, 0.4555184408365485)
+Processing file: NA18989_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA18989_rdna', 'Positive_G_Quad', 70, 2944, 0.31763294406035025)
+Processing file: HG00096_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG00096_rdna', 'Negative_G_Quad', 80, 3459, 0.37319713094590745)
+Processing file: NA18534_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('NA18534_rdna', 'Negative_G_Quad', 216, 9188, 0.9913082506883485)
+Processing file: HG01890_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG01890_rdna', 'Positive_G_Quad', 60, 2573, 0.277605151177745)
+Processing file: HG03520_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03520_rdna', 'Positive_G_Quad', 78, 3233, 0.34881362369127455)
+Processing file: HG02587_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02587_rdna', 'Negative_G_Quad', 38, 1691, 0.1824447379096645)
+Processing file: HG02554_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02554_rdna', 'Negative_G_Quad', 162, 6835, 0.7374392570151134)
+Processing file: HG00514_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG00514_rdna', 'Positive_G_Quad', 111, 4593, 0.49554623371915374)
+Processing file: NA19239_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA19239_rdna', 'Positive_G_Quad', 134, 5597, 0.6038694252397352)
+Processing file: HG02818_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_neg_collapsed.bed
+Appended data: ('HG02818_rdna', 'Negative_G_Quad', 95, 4165, 0.44936861821038)
+Processing file: HG03732_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('HG03732_rdna', 'Positive_G_Quad', 120, 5020, 0.541615957602907)
+Processing file: NA21487_rdna_chr22_no_Ns_rdna_verkko_batch123_chr22_filtered_pos_collapsed.bed
+Appended data: ('NA21487_rdna', 'Positive_G_Quad', 147, 6067, 0.6545784889993699)
+Combined metrics CSV file has been created at /home/alextu/scratch/rdna_analysis/rdna_annotation_summary_stats/verkko_batch123_chm13_quadron_collapsed_summary_metrics_rdna_chr22.csv.

@@ -1,0 +1,1 @@
+slurmstepd: error: *** JOB 37561169 ON cdr1608 CANCELLED AT 2024-07-24T13:29:03 ***
