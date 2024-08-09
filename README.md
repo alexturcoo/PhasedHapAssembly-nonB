@@ -28,7 +28,7 @@ Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) alig
 2. `nonoverlapping_motifs.sh` - Script to merge/collapse overlapping intervals for specific non-B motif annotations from non-B motif search tool (nBMST) (outputs collapsed bed file for each specific motif type from nBMST)
 
 # annotation_scripts_wholegenome
-Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2,0 and GRCh38 at the WHOLE GENOME LEVEL
+Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
 1. `process_bed_files.py` - Script to process collapsed bed files from nBMST and obtain metrics such as Motif Counts, Bases Covered by Motif, and Percentage of Genome covered by motif for each haplotype.
 2. `process_bed_files.sh` - Associated shell script to run the python script
 3. `process_quadron_files.py` - Script to process .txt output from Quadron and format into dataframes with stability score greater than 19
@@ -41,6 +41,13 @@ Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligne
 10. `find_nonb_motifs_haplotype_array.sh` - Script to annotate phased haplotype assemblies (alignments) using the non-b gfa tool (nBMST)
 11. `run_quadron.sh` - Script to annotate phased haplotype assemblies (alignments) using quadron
 12. `run_quadron_haplotigs.sh` - Script to annotate phased haplotype assemblies (haplotigs) using quadron
+
+# rDNA_scripts
+Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to only T2T-CHM13v2.0 (rDNA arrays unavailable for GRCh38)
+1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype rDNA arrays (Bam files) aligned to chm13v2.0, filter alignments to obtain ONLY primary reads, 
+2. 
+3. 
+4.
 
 # Analysis Scripts
 1. `examine_nonb_annoations.ipynb` - A jupyter notebook with analysis of Phased Haplotype assembly non-b motif annotations
