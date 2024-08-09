@@ -22,11 +22,13 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 | Quadron         | hg38                | 20240201_verkko_batch3   | 24                   |          |
 | **Total**       |                     |                          | **130**              |          |
 
-# preprocessing_scripts
+# preprocessing_scripts_wholegenome
+Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
 1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype assemblies (BAM files) aligned to reference (chm13 or hg38), filter alignments to obtain ONLY primary reads, then split the bam file by chromosome and write each chromosome bam to a fasta file
 2. `nonoverlapping_motifs.sh` - Script to merge/collapse overlapping intervals for specific non-B motif annotations from non-B motif search tool (nBMST) (outputs collapsed bed file for each specific motif type from nBMST)
 
-# annotation_scripts
+# annotation_scripts_wholegenome
+Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2,0 and GRCh38 at the WHOLE GENOME LEVEL
 1. `process_bed_files.py` - Script to process collapsed bed files from nBMST and obtain metrics such as Motif Counts, Bases Covered by Motif, and Percentage of Genome covered by motif for each haplotype.
 2. `process_bed_files.sh` - Associated shell script to run the python script
 3. `process_quadron_files.py` - Script to process .txt output from Quadron and format into dataframes with stability score greater than 19
