@@ -23,7 +23,14 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 | **Total**       |                     |                          | **130**              |          |
 
 # Analysis Scripts
-1. `examine_nonb_annoations.ipynb` - A jupyter notebook with analysis of Phased Haplotype assembly non-b motif annotations
+1. `centromere_analysis.ipynb` -
+2. `centromere_analysis_active_asat_hor_arrays.ipynb` -
+3. `chrY_Inverted_Repeat_analysis.ipynb` -
+4. `examine_nonb_annotations_chm13.ipynb` - A jupyter notebook with analysis of Phased Haplotype assembly non-b motif annotations
+5. `hgsvc_phased_haplotype_analysis_final.ipynb` -
+6. `rdna_analysis.ipynb` -  
+7. `shared_nonB_motifs_analysis.ipynb` -
+8. `sv_flank_extraction.ipynb` - 
 
 # annotation_scripts_wholegenome
 Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
