@@ -1,0 +1,612 @@
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr1
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr1.csv for chr1.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr2
+Processing file: HG02059_haplotype1-0000016_chr2_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02059_haplotype1-0000016', 'Negative_G_Quad', 0, 0)
+Processing file: HG01352_haplotype1-0000020_chr2_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01352_haplotype1-0000020', 'Positive_G_Quad', 0, 0)
+Processing file: HG00358_haplotype1-0000022_chr2_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00358_haplotype1-0000022', 'Positive_G_Quad', 0, 0)
+Processing file: HG01352_haplotype1-0000020_chr2_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01352_haplotype1-0000020', 'Negative_G_Quad', 2, 90)
+Processing file: NA20509_haplotype2-0000097_chr2_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA20509_haplotype2-0000097', 'Positive_G_Quad', 1, 45)
+Processing file: HG00171_haplotype1-0000028_chr2_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00171_haplotype1-0000028', 'Positive_G_Quad', 1, 27)
+Processing file: HG00358_haplotype1-0000022_chr2_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00358_haplotype1-0000022', 'Negative_G_Quad', 1, 34)
+Processing file: HG02059_haplotype1-0000016_chr2_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02059_haplotype1-0000016', 'Positive_G_Quad', 1, 46)
+Processing file: NA20509_haplotype2-0000097_chr2_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA20509_haplotype2-0000097', 'Negative_G_Quad', 0, 0)
+Processing file: HG03065_haplotype1-0000012_chr2_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03065_haplotype1-0000012', 'Positive_G_Quad', 0, 0)
+Processing file: HG03065_haplotype1-0000012_chr2_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03065_haplotype1-0000012', 'Negative_G_Quad', 1, 27)
+Processing file: HG00171_haplotype1-0000028_chr2_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00171_haplotype1-0000028', 'Negative_G_Quad', 0, 0)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr2.csv for chr2.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr3
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr3.csv for chr3.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr4
+Processing file: NA18939_haplotype2-0000127_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18939_haplotype2-0000127', 'Negative_G_Quad', 3, 135)
+Processing file: NA18939_haplotype1-0000025_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18939_haplotype1-0000025', 'Negative_G_Quad', 1, 45)
+Processing file: HG02554_haplotype2-0000185_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02554_haplotype2-0000185', 'Positive_G_Quad', 0, 0)
+Processing file: HG00864_haplotype1-0000013_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00864_haplotype1-0000013', 'Positive_G_Quad', 1, 45)
+Processing file: HG03248_haplotype2-0000155_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03248_haplotype2-0000155', 'Negative_G_Quad', 2, 90)
+Processing file: HG02666_haplotype2-0000079_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02666_haplotype2-0000079', 'Negative_G_Quad', 0, 0)
+Processing file: NA18939_haplotype2-0000127_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18939_haplotype2-0000127', 'Positive_G_Quad', 0, 0)
+Processing file: HG02953_haplotype2-0000149_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02953_haplotype2-0000149', 'Positive_G_Quad', 0, 0)
+Processing file: HG02953_haplotype2-0000149_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02953_haplotype2-0000149', 'Negative_G_Quad', 1, 45)
+Processing file: HG02554_haplotype2-0000185_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02554_haplotype2-0000185', 'Negative_G_Quad', 1, 45)
+Processing file: HG03248_haplotype1-0000033_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03248_haplotype1-0000033', 'Negative_G_Quad', 1, 45)
+Processing file: NA19317_haplotype2-0000081_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19317_haplotype2-0000081', 'Positive_G_Quad', 1, 45)
+Processing file: NA18939_haplotype1-0000025_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18939_haplotype1-0000025', 'Positive_G_Quad', 1, 45)
+Processing file: HG02282_haplotype2-0000122_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02282_haplotype2-0000122', 'Positive_G_Quad', 1, 45)
+Processing file: HG00864_haplotype1-0000013_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00864_haplotype1-0000013', 'Negative_G_Quad', 0, 0)
+Processing file: HG02282_haplotype2-0000122_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02282_haplotype2-0000122', 'Negative_G_Quad', 0, 0)
+Processing file: HG03520_haplotype1-0000028_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03520_haplotype1-0000028', 'Positive_G_Quad', 2, 79)
+Processing file: NA19705_haplotype2-0000090_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19705_haplotype2-0000090', 'Positive_G_Quad', 2, 89)
+Processing file: NA19317_haplotype2-0000081_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19317_haplotype2-0000081', 'Negative_G_Quad', 0, 0)
+Processing file: HG03248_haplotype1-0000033_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03248_haplotype1-0000033', 'Positive_G_Quad', 0, 0)
+Processing file: NA19705_haplotype2-0000090_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19705_haplotype2-0000090', 'Negative_G_Quad', 0, 0)
+Processing file: NA19347_haplotype1-0000028_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19347_haplotype1-0000028', 'Positive_G_Quad', 1, 45)
+Processing file: HG03520_haplotype1-0000028_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03520_haplotype1-0000028', 'Negative_G_Quad', 0, 0)
+Processing file: NA19347_haplotype1-0000028_chr4_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19347_haplotype1-0000028', 'Negative_G_Quad', 0, 0)
+Processing file: HG02666_haplotype2-0000079_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02666_haplotype2-0000079', 'Positive_G_Quad', 2, 89)
+Processing file: HG03248_haplotype2-0000155_chr4_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03248_haplotype2-0000155', 'Positive_G_Quad', 0, 0)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr4.csv for chr4.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr5
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr5.csv for chr5.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr6
+Processing file: NA20355_haplotype2-0000170_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA20355_haplotype2-0000170', 'Positive_G_Quad', 0, 0)
+Processing file: NA18989_haplotype2-0000154_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18989_haplotype2-0000154', 'Positive_G_Quad', 1, 45)
+Processing file: NA18939_haplotype1-0000023_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18939_haplotype1-0000023', 'Negative_G_Quad', 0, 0)
+Processing file: NA19129_haplotype2-0000085_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19129_haplotype2-0000085', 'Positive_G_Quad', 1, 45)
+Processing file: NA19983_haplotype1-0000033_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19983_haplotype1-0000033', 'Positive_G_Quad', 2, 90)
+Processing file: HG02011_haplotype2-0000074_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02011_haplotype2-0000074', 'Negative_G_Quad', 2, 90)
+Processing file: NA19705_haplotype2-0000083_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19705_haplotype2-0000083', 'Negative_G_Quad', 0, 0)
+Processing file: HG02587_haplotype1-0000032_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02587_haplotype1-0000032', 'Positive_G_Quad', 1, 45)
+Processing file: HG03248_haplotype2-0000148_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03248_haplotype2-0000148', 'Positive_G_Quad', 1, 45)
+Processing file: NA20509_haplotype2-0000099_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA20509_haplotype2-0000099', 'Negative_G_Quad', 2, 90)
+Processing file: NA12329_haplotype1-0000031_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA12329_haplotype1-0000031', 'Negative_G_Quad', 2, 90)
+Processing file: NA18939_haplotype2-0000156_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18939_haplotype2-0000156', 'Negative_G_Quad', 0, 0)
+Processing file: HG02282_haplotype1-0000021_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02282_haplotype1-0000021', 'Negative_G_Quad', 1, 45)
+Processing file: NA18939_haplotype2-0000156_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18939_haplotype2-0000156', 'Positive_G_Quad', 2, 90)
+Processing file: HG03732_haplotype2-0000078_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03732_haplotype2-0000078', 'Negative_G_Quad', 0, 0)
+Processing file: NA19347_haplotype1-0000013_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19347_haplotype1-0000013', 'Positive_G_Quad', 2, 90)
+Processing file: HG03248_haplotype2-0000148_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03248_haplotype2-0000148', 'Negative_G_Quad', 0, 0)
+Processing file: HG03732_haplotype2-0000078_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03732_haplotype2-0000078', 'Positive_G_Quad', 2, 90)
+Processing file: HG01457_haplotype2-0000108_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01457_haplotype2-0000108', 'Positive_G_Quad', 1, 45)
+Processing file: HG03683_haplotype1-0000032_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03683_haplotype1-0000032', 'Positive_G_Quad', 2, 90)
+Processing file: HG00096_haplotype2-0000117_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00096_haplotype2-0000117', 'Positive_G_Quad', 2, 90)
+Processing file: HG02953_haplotype1-0000025_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02953_haplotype1-0000025', 'Positive_G_Quad', 1, 45)
+Processing file: NA19240_haplotype1-0000009_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19240_haplotype1-0000009', 'Negative_G_Quad', 0, 0)
+Processing file: HG02666_haplotype2-0000091_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02666_haplotype2-0000091', 'Negative_G_Quad', 0, 0)
+Processing file: HG02059_haplotype2-0000151_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02059_haplotype2-0000151', 'Negative_G_Quad', 0, 0)
+Processing file: HG01505_haplotype2-0000147_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01505_haplotype2-0000147', 'Positive_G_Quad', 2, 90)
+Processing file: NA19129_haplotype2-0000085_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19129_haplotype2-0000085', 'Negative_G_Quad', 0, 0)
+Processing file: NA20509_haplotype2-0000099_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA20509_haplotype2-0000099', 'Positive_G_Quad', 0, 0)
+Processing file: HG03807_haplotype2-0000087_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03807_haplotype2-0000087', 'Positive_G_Quad', 0, 0)
+Processing file: HG02059_haplotype2-0000151_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02059_haplotype2-0000151', 'Positive_G_Quad', 2, 90)
+Processing file: HG02666_haplotype2-0000091_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02666_haplotype2-0000091', 'Positive_G_Quad', 1, 45)
+Processing file: HG01457_haplotype2-0000108_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01457_haplotype2-0000108', 'Negative_G_Quad', 0, 0)
+Processing file: HG01457_haplotype1-0000017_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01457_haplotype1-0000017', 'Negative_G_Quad', 0, 0)
+Processing file: HG02587_haplotype2-0000072_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02587_haplotype2-0000072', 'Positive_G_Quad', 2, 90)
+Processing file: NA18939_haplotype1-0000023_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18939_haplotype1-0000023', 'Positive_G_Quad', 1, 45)
+Processing file: HG03456_haplotype2-0000164_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03456_haplotype2-0000164', 'Negative_G_Quad', 0, 0)
+Processing file: HG03009_haplotype1-0000032_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03009_haplotype1-0000032', 'Negative_G_Quad', 0, 0)
+Processing file: NA19384_haplotype2-0000112_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19384_haplotype2-0000112', 'Positive_G_Quad', 0, 0)
+Processing file: NA19705_haplotype1-0000029_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19705_haplotype1-0000029', 'Positive_G_Quad', 0, 0)
+Processing file: NA20355_haplotype2-0000170_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA20355_haplotype2-0000170', 'Negative_G_Quad', 1, 45)
+Processing file: HG02282_haplotype1-0000021_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02282_haplotype1-0000021', 'Positive_G_Quad', 0, 0)
+Processing file: HG01505_haplotype2-0000147_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01505_haplotype2-0000147', 'Negative_G_Quad', 0, 0)
+Processing file: NA19240_haplotype1-0000009_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19240_haplotype1-0000009', 'Positive_G_Quad', 2, 90)
+Processing file: NA12329_haplotype1-0000031_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA12329_haplotype1-0000031', 'Positive_G_Quad', 0, 0)
+Processing file: HG03683_haplotype2-0000085_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03683_haplotype2-0000085', 'Positive_G_Quad', 2, 90)
+Processing file: HG03807_haplotype2-0000087_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03807_haplotype2-0000087', 'Negative_G_Quad', 2, 90)
+Processing file: NA18989_haplotype2-0000154_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18989_haplotype2-0000154', 'Negative_G_Quad', 0, 0)
+Processing file: HG03683_haplotype2-0000085_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03683_haplotype2-0000085', 'Negative_G_Quad', 0, 0)
+Processing file: NA19347_haplotype1-0000013_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19347_haplotype1-0000013', 'Negative_G_Quad', 0, 0)
+Processing file: HG03009_haplotype1-0000032_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03009_haplotype1-0000032', 'Positive_G_Quad', 2, 90)
+Processing file: HG00096_haplotype2-0000117_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00096_haplotype2-0000117', 'Negative_G_Quad', 0, 0)
+Processing file: HG01890_haplotype1-0000013_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01890_haplotype1-0000013', 'Positive_G_Quad', 0, 0)
+Processing file: HG03456_haplotype2-0000164_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03456_haplotype2-0000164', 'Positive_G_Quad', 1, 45)
+Processing file: NA19705_haplotype2-0000083_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19705_haplotype2-0000083', 'Positive_G_Quad', 1, 45)
+Processing file: HG01457_haplotype1-0000017_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01457_haplotype1-0000017', 'Positive_G_Quad', 1, 45)
+Processing file: NA19705_haplotype1-0000029_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19705_haplotype1-0000029', 'Negative_G_Quad', 1, 45)
+Processing file: HG01890_haplotype1-0000013_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01890_haplotype1-0000013', 'Negative_G_Quad', 2, 90)
+Processing file: HG02587_haplotype2-0000072_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02587_haplotype2-0000072', 'Negative_G_Quad', 0, 0)
+Processing file: NA19983_haplotype1-0000033_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19983_haplotype1-0000033', 'Negative_G_Quad', 0, 0)
+Processing file: HG02818_haplotype1-0000027_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02818_haplotype1-0000027', 'Positive_G_Quad', 1, 45)
+Processing file: HG02953_haplotype1-0000025_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02953_haplotype1-0000025', 'Negative_G_Quad', 0, 0)
+Processing file: HG03683_haplotype1-0000032_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03683_haplotype1-0000032', 'Negative_G_Quad', 0, 0)
+Processing file: HG02587_haplotype1-0000032_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02587_haplotype1-0000032', 'Negative_G_Quad', 0, 0)
+Processing file: NA19129_haplotype1-0000005_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19129_haplotype1-0000005', 'Positive_G_Quad', 1, 45)
+Processing file: NA19129_haplotype1-0000005_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19129_haplotype1-0000005', 'Negative_G_Quad', 0, 0)
+Processing file: NA19384_haplotype2-0000112_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19384_haplotype2-0000112', 'Negative_G_Quad', 2, 90)
+Processing file: HG02011_haplotype2-0000074_chr6_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02011_haplotype2-0000074', 'Positive_G_Quad', 0, 0)
+Processing file: HG02818_haplotype1-0000027_chr6_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02818_haplotype1-0000027', 'Negative_G_Quad', 0, 0)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr6.csv for chr6.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr7
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr7.csv for chr7.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr8
+Processing file: HG03452_haplotype2-0000104_chr8_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03452_haplotype2-0000104', 'Positive_G_Quad', 0, 0)
+Processing file: NA19705_haplotype2-0000097_chr8_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19705_haplotype2-0000097', 'Positive_G_Quad', 0, 0)
+Processing file: HG03452_haplotype2-0000104_chr8_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03452_haplotype2-0000104', 'Negative_G_Quad', 1, 45)
+Processing file: HG02953_haplotype1-0000028_chr8_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02953_haplotype1-0000028', 'Negative_G_Quad', 0, 0)
+Processing file: NA19705_haplotype2-0000097_chr8_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19705_haplotype2-0000097', 'Negative_G_Quad', 2, 90)
+Processing file: HG02953_haplotype1-0000028_chr8_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02953_haplotype1-0000028', 'Positive_G_Quad', 1, 45)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr8.csv for chr8.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr9
+Processing file: HG02011_haplotype2-0000068_chr9_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02011_haplotype2-0000068', 'Negative_G_Quad', 1, 45)
+Processing file: HG02011_haplotype2-0000068_chr9_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02011_haplotype2-0000068', 'Positive_G_Quad', 0, 0)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr9.csv for chr9.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr10
+Processing file: HG03371_haplotype2-0000070_chr10_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03371_haplotype2-0000070', 'Negative_G_Quad', 1, 45)
+Processing file: NA21487_haplotype1-0000002_chr10_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA21487_haplotype1-0000002', 'Negative_G_Quad', 3, 135)
+Processing file: HG02818_haplotype1-0000042_chr10_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02818_haplotype1-0000042', 'Negative_G_Quad', 2, 90)
+Processing file: NA20509_haplotype2-0000104_chr10_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA20509_haplotype2-0000104', 'Negative_G_Quad', 0, 0)
+Processing file: HG03371_haplotype2-0000070_chr10_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03371_haplotype2-0000070', 'Positive_G_Quad', 0, 0)
+Processing file: HG00732_haplotype2-0000090_chr10_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00732_haplotype2-0000090', 'Negative_G_Quad', 2, 68)
+Processing file: NA21487_haplotype1-0000002_chr10_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA21487_haplotype1-0000002', 'Positive_G_Quad', 0, 0)
+Processing file: HG00732_haplotype2-0000090_chr10_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00732_haplotype2-0000090', 'Positive_G_Quad', 0, 0)
+Processing file: NA20509_haplotype2-0000104_chr10_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA20509_haplotype2-0000104', 'Positive_G_Quad', 1, 34)
+Processing file: HG02818_haplotype1-0000042_chr10_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02818_haplotype1-0000042', 'Positive_G_Quad', 0, 0)
+Processing file: HG00171_haplotype1-0000034_chr10_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00171_haplotype1-0000034', 'Positive_G_Quad', 1, 34)
+Processing file: HG00171_haplotype1-0000034_chr10_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00171_haplotype1-0000034', 'Negative_G_Quad', 0, 0)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr10.csv for chr10.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr11
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr11.csv for chr11.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr12
+Processing file: HG02018_haplotype2-0000103_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02018_haplotype2-0000103', 'Positive_G_Quad', 0, 0)
+Processing file: HG03452_haplotype1-0000039_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03452_haplotype1-0000039', 'Negative_G_Quad', 0, 0)
+Processing file: NA19650_haplotype2-0000092_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19650_haplotype2-0000092', 'Negative_G_Quad', 2, 90)
+Processing file: NA12329_haplotype1-0000010_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA12329_haplotype1-0000010', 'Negative_G_Quad', 0, 0)
+Processing file: HG00358_haplotype2-0000086_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00358_haplotype2-0000086', 'Negative_G_Quad', 0, 0)
+Processing file: HG00864_haplotype1-0000036_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00864_haplotype1-0000036', 'Negative_G_Quad', 0, 0)
+Processing file: HG02011_haplotype2-0000067_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02011_haplotype2-0000067', 'Negative_G_Quad', 0, 0)
+Processing file: HG02018_haplotype1-0000027_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02018_haplotype1-0000027', 'Positive_G_Quad', 1, 45)
+Processing file: NA19650_haplotype2-0000092_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19650_haplotype2-0000092', 'Positive_G_Quad', 0, 0)
+Processing file: HG00864_haplotype2-0000085_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00864_haplotype2-0000085', 'Negative_G_Quad', 0, 0)
+Processing file: HG01114_haplotype1-0000022_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01114_haplotype1-0000022', 'Negative_G_Quad', 0, 0)
+Processing file: HG02018_haplotype2-0000103_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02018_haplotype2-0000103', 'Negative_G_Quad', 2, 90)
+Processing file: HG00864_haplotype1-0000036_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00864_haplotype1-0000036', 'Positive_G_Quad', 3, 135)
+Processing file: NA12329_haplotype1-0000010_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA12329_haplotype1-0000010', 'Positive_G_Quad', 1, 45)
+Processing file: HG00864_haplotype2-0000085_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00864_haplotype2-0000085', 'Positive_G_Quad', 3, 135)
+Processing file: NA19036_haplotype2-0000062_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19036_haplotype2-0000062', 'Negative_G_Quad', 1, 45)
+Processing file: NA19036_haplotype2-0000062_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19036_haplotype2-0000062', 'Positive_G_Quad', 0, 0)
+Processing file: NA18989_haplotype1-0000020_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18989_haplotype1-0000020', 'Negative_G_Quad', 0, 0)
+Processing file: HG03452_haplotype1-0000039_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03452_haplotype1-0000039', 'Positive_G_Quad', 1, 45)
+Processing file: NA18989_haplotype1-0000020_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18989_haplotype1-0000020', 'Positive_G_Quad', 2, 90)
+Processing file: HG01114_haplotype1-0000022_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01114_haplotype1-0000022', 'Positive_G_Quad', 1, 45)
+Processing file: HG02011_haplotype2-0000067_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02011_haplotype2-0000067', 'Positive_G_Quad', 1, 45)
+Processing file: HG00358_haplotype2-0000086_chr12_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00358_haplotype2-0000086', 'Positive_G_Quad', 1, 45)
+Processing file: HG02018_haplotype1-0000027_chr12_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02018_haplotype1-0000027', 'Negative_G_Quad', 0, 0)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr12.csv for chr12.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr13
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr13.csv for chr13.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr14
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr14.csv for chr14.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr15
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr15.csv for chr15.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr16
+Processing file: HG00513_haplotype2-0000105_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00513_haplotype2-0000105', 'Positive_G_Quad', 0, 0)
+Processing file: NA19317_haplotype1-0000020_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19317_haplotype1-0000020', 'Negative_G_Quad', 0, 0)
+Processing file: HG02953_haplotype2-0000148_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02953_haplotype2-0000148', 'Positive_G_Quad', 1, 45)
+Processing file: NA19317_haplotype1-0000020_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19317_haplotype1-0000020', 'Positive_G_Quad', 1, 45)
+Processing file: HG03520_haplotype2-0000142_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03520_haplotype2-0000142', 'Positive_G_Quad', 4, 180)
+Processing file: HG01890_haplotype1-0000002_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01890_haplotype1-0000002', 'Positive_G_Quad', 0, 0)
+Processing file: HG03065_haplotype2-0000070_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03065_haplotype2-0000070', 'Negative_G_Quad', 0, 0)
+Processing file: HG02953_haplotype2-0000148_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02953_haplotype2-0000148', 'Negative_G_Quad', 0, 0)
+Processing file: NA12329_haplotype2-0000098_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA12329_haplotype2-0000098', 'Negative_G_Quad', 1, 45)
+Processing file: HG03065_haplotype1-0000026_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03065_haplotype1-0000026', 'Negative_G_Quad', 1, 45)
+Processing file: HG03683_haplotype1-0000028_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03683_haplotype1-0000028', 'Negative_G_Quad', 1, 45)
+Processing file: HG03065_haplotype2-0000070_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03065_haplotype2-0000070', 'Positive_G_Quad', 1, 45)
+Processing file: HG03065_haplotype1-0000026_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03065_haplotype1-0000026', 'Positive_G_Quad', 0, 0)
+Processing file: NA19317_haplotype2-0000074_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19317_haplotype2-0000074', 'Negative_G_Quad', 0, 0)
+Processing file: HG00513_haplotype1-0000036_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00513_haplotype1-0000036', 'Positive_G_Quad', 2, 90)
+Processing file: HG03520_haplotype2-0000142_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03520_haplotype2-0000142', 'Negative_G_Quad', 0, 0)
+Processing file: HG00358_haplotype2-0000109_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00358_haplotype2-0000109', 'Negative_G_Quad', 1, 45)
+Processing file: HG00358_haplotype1-0000028_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00358_haplotype1-0000028', 'Negative_G_Quad', 1, 45)
+Processing file: HG00732_haplotype2-0000068_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00732_haplotype2-0000068', 'Positive_G_Quad', 1, 45)
+Processing file: HG00358_haplotype1-0000028_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00358_haplotype1-0000028', 'Positive_G_Quad', 0, 0)
+Processing file: HG00358_haplotype2-0000109_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00358_haplotype2-0000109', 'Positive_G_Quad', 0, 0)
+Processing file: NA19347_haplotype1-0000025_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19347_haplotype1-0000025', 'Positive_G_Quad', 0, 0)
+Processing file: HG02106_haplotype1-0000005_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02106_haplotype1-0000005', 'Negative_G_Quad', 0, 0)
+Processing file: HG01890_haplotype2-0000063_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01890_haplotype2-0000063', 'Negative_G_Quad', 1, 45)
+Processing file: NA19317_haplotype2-0000074_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19317_haplotype2-0000074', 'Positive_G_Quad', 1, 45)
+Processing file: HG01890_haplotype1-0000002_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01890_haplotype1-0000002', 'Negative_G_Quad', 1, 45)
+Processing file: HG00171_haplotype2-0000143_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00171_haplotype2-0000143', 'Positive_G_Quad', 1, 45)
+Processing file: HG00732_haplotype2-0000068_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00732_haplotype2-0000068', 'Negative_G_Quad', 0, 0)
+Processing file: HG00513_haplotype1-0000036_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00513_haplotype1-0000036', 'Negative_G_Quad', 0, 0)
+Processing file: HG04217_haplotype1-0000019_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG04217_haplotype1-0000019', 'Negative_G_Quad', 1, 45)
+Processing file: HG02587_haplotype1-0000014_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02587_haplotype1-0000014', 'Positive_G_Quad', 1, 45)
+Processing file: NA19384_haplotype1-0000032_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19384_haplotype1-0000032', 'Positive_G_Quad', 0, 0)
+Processing file: HG02106_haplotype1-0000005_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02106_haplotype1-0000005', 'Positive_G_Quad', 1, 45)
+Processing file: NA19384_haplotype1-0000032_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19384_haplotype1-0000032', 'Negative_G_Quad', 3, 135)
+Processing file: HG01890_haplotype2-0000063_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01890_haplotype2-0000063', 'Positive_G_Quad', 0, 0)
+Processing file: HG00731_haplotype1-0000023_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00731_haplotype1-0000023', 'Negative_G_Quad', 0, 0)
+Processing file: HG02587_haplotype1-0000014_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02587_haplotype1-0000014', 'Negative_G_Quad', 0, 0)
+Processing file: HG00731_haplotype1-0000023_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00731_haplotype1-0000023', 'Positive_G_Quad', 1, 45)
+Processing file: NA12329_haplotype2-0000098_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA12329_haplotype2-0000098', 'Positive_G_Quad', 0, 0)
+Processing file: HG00171_haplotype2-0000143_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00171_haplotype2-0000143', 'Negative_G_Quad', 0, 0)
+Processing file: HG03683_haplotype1-0000028_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03683_haplotype1-0000028', 'Positive_G_Quad', 0, 0)
+Processing file: NA19347_haplotype1-0000025_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19347_haplotype1-0000025', 'Negative_G_Quad', 1, 45)
+Processing file: HG04217_haplotype1-0000019_chr16_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG04217_haplotype1-0000019', 'Positive_G_Quad', 0, 0)
+Processing file: HG00513_haplotype2-0000105_chr16_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00513_haplotype2-0000105', 'Negative_G_Quad', 2, 90)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr16.csv for chr16.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr17
+Processing file: NA18534_haplotype1-0000018_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18534_haplotype1-0000018', 'Negative_G_Quad', 0, 0)
+Processing file: HG01114_haplotype2-0000267_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01114_haplotype2-0000267', 'Positive_G_Quad', 0, 0)
+Processing file: HG00171_haplotype2-0000153_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00171_haplotype2-0000153', 'Positive_G_Quad', 0, 0)
+Processing file: HG02554_haplotype2-0000164_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02554_haplotype2-0000164', 'Positive_G_Quad', 2, 90)
+Processing file: HG03009_haplotype1-0000001_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03009_haplotype1-0000001', 'Negative_G_Quad', 2, 90)
+Processing file: HG02554_haplotype1-0000007_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02554_haplotype1-0000007', 'Positive_G_Quad', 1, 45)
+Processing file: HG00731_haplotype2-0000048_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00731_haplotype2-0000048', 'Positive_G_Quad', 0, 0)
+Processing file: HG00358_haplotype1-0000015_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00358_haplotype1-0000015', 'Positive_G_Quad', 0, 0)
+Processing file: HG01573_haplotype1-0000021_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01573_haplotype1-0000021', 'Negative_G_Quad', 1, 45)
+Processing file: NA19983_haplotype2-0000112_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19983_haplotype2-0000112', 'Negative_G_Quad', 2, 90)
+Processing file: NA19317_haplotype1-0000003_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19317_haplotype1-0000003', 'Positive_G_Quad', 1, 45)
+Processing file: HG00171_haplotype1-0000018_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00171_haplotype1-0000018', 'Negative_G_Quad', 3, 135)
+Processing file: NA19347_haplotype2-0000069_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19347_haplotype2-0000069', 'Positive_G_Quad', 0, 0)
+Processing file: HG01573_haplotype2-0000112_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01573_haplotype2-0000112', 'Negative_G_Quad', 1, 45)
+Processing file: NA19317_haplotype1-0000003_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19317_haplotype1-0000003', 'Negative_G_Quad', 0, 0)
+Processing file: HG00358_haplotype2-0000098_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00358_haplotype2-0000098', 'Negative_G_Quad', 2, 90)
+Processing file: HG03807_haplotype2-0000106_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03807_haplotype2-0000106', 'Positive_G_Quad', 0, 0)
+Processing file: NA19036_haplotype1-0000034_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19036_haplotype1-0000034', 'Negative_G_Quad', 2, 90)
+Processing file: HG00171_haplotype2-0000153_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00171_haplotype2-0000153', 'Negative_G_Quad', 3, 135)
+Processing file: NA19347_haplotype2-0000069_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19347_haplotype2-0000069', 'Negative_G_Quad', 1, 45)
+Processing file: NA18534_haplotype1-0000018_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18534_haplotype1-0000018', 'Positive_G_Quad', 2, 90)
+Processing file: HG04217_haplotype1-0000029_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG04217_haplotype1-0000029', 'Positive_G_Quad', 0, 0)
+Processing file: HG00731_haplotype2-0000048_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00731_haplotype2-0000048', 'Negative_G_Quad', 2, 90)
+Processing file: HG03520_haplotype1-0000041_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03520_haplotype1-0000041', 'Positive_G_Quad', 0, 0)
+Processing file: HG00171_haplotype1-0000018_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00171_haplotype1-0000018', 'Positive_G_Quad', 0, 0)
+Processing file: HG02554_haplotype2-0000164_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02554_haplotype2-0000164', 'Negative_G_Quad', 0, 0)
+Processing file: HG00358_haplotype1-0000015_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00358_haplotype1-0000015', 'Negative_G_Quad', 1, 45)
+Processing file: HG01573_haplotype1-0000021_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01573_haplotype1-0000021', 'Positive_G_Quad', 0, 0)
+Processing file: NA19384_haplotype1-0000018_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19384_haplotype1-0000018', 'Negative_G_Quad', 2, 90)
+Processing file: NA19384_haplotype2-0000118_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19384_haplotype2-0000118', 'Positive_G_Quad', 0, 0)
+Processing file: NA19036_haplotype1-0000034_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19036_haplotype1-0000034', 'Positive_G_Quad', 0, 0)
+Processing file: HG03520_haplotype1-0000041_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03520_haplotype1-0000041', 'Negative_G_Quad', 2, 90)
+Processing file: HG03683_haplotype1-0000006_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03683_haplotype1-0000006', 'Positive_G_Quad', 0, 0)
+Processing file: HG01573_haplotype2-0000112_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01573_haplotype2-0000112', 'Positive_G_Quad', 0, 0)
+Processing file: HG02587_haplotype2-0000071_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02587_haplotype2-0000071', 'Positive_G_Quad', 1, 45)
+Processing file: NA19983_haplotype2-0000112_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19983_haplotype2-0000112', 'Positive_G_Quad', 0, 0)
+Processing file: NA20355_haplotype2-0000172_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA20355_haplotype2-0000172', 'Negative_G_Quad', 0, 0)
+Processing file: HG04217_haplotype1-0000029_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG04217_haplotype1-0000029', 'Negative_G_Quad', 2, 90)
+Processing file: HG01114_haplotype2-0000267_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01114_haplotype2-0000267', 'Negative_G_Quad', 1, 45)
+Processing file: NA19384_haplotype1-0000018_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19384_haplotype1-0000018', 'Positive_G_Quad', 0, 0)
+Processing file: HG02587_haplotype2-0000071_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02587_haplotype2-0000071', 'Negative_G_Quad', 0, 0)
+Processing file: HG03683_haplotype1-0000006_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03683_haplotype1-0000006', 'Negative_G_Quad', 1, 45)
+Processing file: HG03009_haplotype1-0000001_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03009_haplotype1-0000001', 'Positive_G_Quad', 0, 0)
+Processing file: HG02554_haplotype1-0000007_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02554_haplotype1-0000007', 'Negative_G_Quad', 0, 0)
+Processing file: NA19384_haplotype2-0000118_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19384_haplotype2-0000118', 'Negative_G_Quad', 2, 90)
+Processing file: NA20355_haplotype2-0000172_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA20355_haplotype2-0000172', 'Positive_G_Quad', 8, 174)
+Processing file: HG03807_haplotype2-0000106_chr17_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03807_haplotype2-0000106', 'Negative_G_Quad', 1, 45)
+Processing file: HG00358_haplotype2-0000098_chr17_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00358_haplotype2-0000098', 'Positive_G_Quad', 0, 0)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr17.csv for chr17.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr18
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr18.csv for chr18.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr19
+Processing file: NA19129_haplotype2-0000101_chr19_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19129_haplotype2-0000101', 'Positive_G_Quad', 0, 0)
+Processing file: NA19129_haplotype2-0000101_chr19_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19129_haplotype2-0000101', 'Negative_G_Quad', 1, 45)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr19.csv for chr19.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr20
+Processing file: HG03807_haplotype2-0000093_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03807_haplotype2-0000093', 'Positive_G_Quad', 0, 0)
+Processing file: HG00733_haplotype1-0000018_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00733_haplotype1-0000018', 'Negative_G_Quad', 0, 0)
+Processing file: NA18534_haplotype1-0000026_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18534_haplotype1-0000026', 'Positive_G_Quad', 1, 45)
+Processing file: HG01457_haplotype1-0000010_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01457_haplotype1-0000010', 'Positive_G_Quad', 0, 0)
+Processing file: NA19317_haplotype1-0000022_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19317_haplotype1-0000022', 'Negative_G_Quad', 0, 0)
+Processing file: NA19347_haplotype2-0000093_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19347_haplotype2-0000093', 'Positive_G_Quad', 0, 0)
+Processing file: HG01457_haplotype1-0000010_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01457_haplotype1-0000010', 'Negative_G_Quad', 1, 45)
+Processing file: HG00864_haplotype1-0000007_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00864_haplotype1-0000007', 'Positive_G_Quad', 0, 0)
+Processing file: NA18939_haplotype1-0000013_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18939_haplotype1-0000013', 'Negative_G_Quad', 2, 90)
+Processing file: HG03520_haplotype2-0000168_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03520_haplotype2-0000168', 'Negative_G_Quad', 0, 0)
+Processing file: NA19317_haplotype2-0000076_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19317_haplotype2-0000076', 'Positive_G_Quad', 1, 45)
+Processing file: HG03520_haplotype2-0000168_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG03520_haplotype2-0000168', 'Positive_G_Quad', 2, 90)
+Processing file: HG00733_haplotype1-0000018_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00733_haplotype1-0000018', 'Positive_G_Quad', 1, 45)
+Processing file: HG00864_haplotype1-0000007_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00864_haplotype1-0000007', 'Negative_G_Quad', 1, 45)
+Processing file: NA18534_haplotype1-0000026_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA18534_haplotype1-0000026', 'Negative_G_Quad', 0, 0)
+Processing file: NA19317_haplotype1-0000022_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19317_haplotype1-0000022', 'Positive_G_Quad', 1, 45)
+Processing file: NA24385_haplotype2-0000075_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA24385_haplotype2-0000075', 'Negative_G_Quad', 0, 0)
+Processing file: HG02953_haplotype2-0000161_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02953_haplotype2-0000161', 'Negative_G_Quad', 0, 0)
+Processing file: HG02953_haplotype2-0000161_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02953_haplotype2-0000161', 'Positive_G_Quad', 1, 45)
+Processing file: NA19317_haplotype2-0000076_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19317_haplotype2-0000076', 'Negative_G_Quad', 0, 0)
+Processing file: NA12329_haplotype1-0000030_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA12329_haplotype1-0000030', 'Positive_G_Quad', 0, 0)
+Processing file: HG03807_haplotype2-0000093_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG03807_haplotype2-0000093', 'Negative_G_Quad', 1, 45)
+Processing file: HG00358_haplotype1-0000005_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG00358_haplotype1-0000005', 'Negative_G_Quad', 0, 0)
+Processing file: NA18939_haplotype1-0000013_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA18939_haplotype1-0000013', 'Positive_G_Quad', 0, 0)
+Processing file: NA19347_haplotype2-0000093_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19347_haplotype2-0000093', 'Negative_G_Quad', 1, 45)
+Processing file: HG02666_haplotype1-0000022_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG02666_haplotype1-0000022', 'Positive_G_Quad', 0, 0)
+Processing file: HG02666_haplotype1-0000022_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG02666_haplotype1-0000022', 'Negative_G_Quad', 1, 45)
+Processing file: HG00358_haplotype1-0000005_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG00358_haplotype1-0000005', 'Positive_G_Quad', 1, 45)
+Processing file: NA24385_haplotype2-0000075_chr20_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA24385_haplotype2-0000075', 'Positive_G_Quad', 2, 90)
+Processing file: NA12329_haplotype1-0000030_chr20_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA12329_haplotype1-0000030', 'Negative_G_Quad', 1, 45)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr20.csv for chr20.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr21
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr21.csv for chr21.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chr22
+Processing file: NA19983_haplotype2-0000107_chr22_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19983_haplotype2-0000107', 'Positive_G_Quad', 1, 46)
+Processing file: NA19317_haplotype2-0000067_chr22_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19317_haplotype2-0000067', 'Negative_G_Quad', 0, 0)
+Processing file: NA19317_haplotype2-0000067_chr22_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19317_haplotype2-0000067', 'Positive_G_Quad', 1, 46)
+Processing file: NA19983_haplotype2-0000107_chr22_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19983_haplotype2-0000107', 'Negative_G_Quad', 0, 0)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chr22.csv for chr22.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chrX
+Processing file: NA19983_haplotype2-0000087_chrX_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('NA19983_haplotype2-0000087', 'Positive_G_Quad', 1, 45)
+Processing file: NA19983_haplotype2-0000087_chrX_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('NA19983_haplotype2-0000087', 'Negative_G_Quad', 0, 0)
+Processing file: HG01114_haplotype1-0000028_chrX_centromere_chm13__filtered_pos_collapsed.bed
+Appended data: ('HG01114_haplotype1-0000028', 'Positive_G_Quad', 0, 0)
+Processing file: HG01114_haplotype1-0000028_chrX_centromere_chm13__filtered_neg_collapsed.bed
+Appended data: ('HG01114_haplotype1-0000028', 'Negative_G_Quad', 1, 45)
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chrX.csv for chrX.
+Processing directory: /home/alextu/scratch/centromere_analysis/verkko123_quadron_active_asat_HOR_arrays_collapsed/chrY
+Combined metrics CSV file has been created at /home/alextu/scratch/centromere_analysis/summary_stats/haplotype_summarystats_verkko123_active_asat_HOR_arrays/verkko123_quadron_collapsed_summary_metrics_centromeres_chrY.csv for chrY.
