@@ -30,29 +30,36 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 5. `hgsvc_phased_haplotype_analysis_final.ipynb` -
 6. `rdna_analysis.ipynb` -  
 7. `shared_nonB_motifs_analysis.ipynb` -
-8. `sv_flank_extraction.ipynb` - 
-
-# annotation_scripts_wholegenome
-Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
-1. `process_bed_files.py` - Script to process collapsed bed files from nBMST and obtain metrics such as Motif Counts, Bases Covered by Motif, and Percentage of Genome covered by motif for each haplotype.
-2. `process_bed_files.sh` - Associated shell script to run the python script
-3. `process_quadron_files.py` - Script to process .txt output from Quadron and format into dataframes with stability score greater than 19
-4. `process_quadron_files.sh` - Associated shell script to run the python script
-5. `quadron_to_bed.py` - Script to format quadron dataframes (Q > 19) into bed files, collapses annotations, and splits bed files based on G quadruplex Strand
-6. `quadron_to_bed.sh` - Associated shell script to run the python script
-7. `process_gquad_beds_quadron.py` - Script to process collapsed bed files from Quadron and obtain metrics of G-quadruplex (Motif Counts, Bases Covered by Motif, and Percentage of Genome covered) for each haplotype
-8. `process_gquad_beds_quadron.sh` - Associated shell script to run the python script
-9. `bedtools_intersect.sh` - Intersect all haplotypes with reference and find common regions across motifs
-10. `find_nonb_motifs_haplotype_array.sh` - Script to annotate phased haplotype assemblies (alignments) using the non-b gfa tool (nBMST)
-11. `run_quadron.sh` - Script to annotate phased haplotype assemblies (alignments) using quadron
-12. `run_quadron_haplotigs.sh` - Script to annotate phased haplotype assemblies (haplotigs) using quadron
-
-# centromere_scripts
+8. `sv_flank_extraction.ipynb` -
 
 # preprocessing_scripts_wholegenome
 Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
 1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype assemblies (BAM files) aligned to reference (chm13 or hg38), filter alignments to obtain ONLY primary reads, then split the bam file by chromosome and write each chromosome bam to a fasta file
+
+# annotation_scripts_wholegenome
+Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
+
+### nBMST ANNOTATION PROCESSING
+1. `find_nonb_motifs_haplotype_array.sh` - Script to annotate phased haplotype assemblies (alignments) using the non-b gfa tool (nBMST)
 2. `nonoverlapping_motifs.sh` - Script to merge/collapse overlapping intervals for specific non-B motif annotations from non-B motif search tool (nBMST) (outputs collapsed bed file for each specific motif type from nBMST)
+3. `process_bed_files.py` - Script to process collapsed bed files from nBMST and obtain metrics such as Motif Counts, Bases Covered by Motif, and Percentage of Genome covered by motif for each haplotype.
+4. `process_bed_files.sh` - Associated shell script to run the python script
+### QUADRON ANNOTATION PROCESSING
+5. `run_quadron.sh` - Script to annotate phased haplotype assemblies (alignments) using quadron
+6. `run_quadron_haplotigs.sh` - Script to annotate phased haplotype assemblies (haplotigs) using quadron
+7. `process_quadron_files.py` - Script to process .txt output from Quadron and format into dataframes with stability score greater than 19
+8. `process_quadron_files.sh` - Associated shell script to run the python script
+9. `quadron_to_bed.py` - Script to format quadron dataframes (Q > 19) into bed files, collapses annotations, and splits bed files based on G quadruplex Strand
+10. `quadron_to_bed.sh` - Associated shell script to run the python script
+11. `process_gquad_beds_quadron.py` - Script to process collapsed bed files from Quadron and obtain metrics of G-quadruplex (Motif Counts, Bases Covered by Motif, and Percentage of Genome covered) for each haplotype
+12. `process_gquad_beds_quadron.sh` - Associated shell script to run the python script
+### EXTRAS
+13. `bedtools_intersect.sh` - Intersect all haplotypes with reference and find common regions across motifs
+
+# centromere_scripts
+Scripts used to annotate centromeres in both reference genomes (GRCh38 and CHM13-T2T) AND Verkko Phased Haplotype Assemblies (Batch 1,2,3)
+
+
 
 # rDNA_scripts
 Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to only T2T-CHM13v2.0 (rDNA arrays unavailable for GRCh38)
