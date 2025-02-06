@@ -3,24 +3,24 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 
 # Haplotype Assembly Data Utilized for annotations
 
-| Annotation Tool | Alignment Reference | Batch                    | Number of Haplotypes | Location |
-|-----------------|---------------------|--------------------------|----------------------|----------|
-| nBMST           | chm13               | 20230818_verkko_batch1   | 76                   |          |
-| nBMST           | chm13               | 20230927_verkko_batch2   | 30                   |          |
-| nBMST           | chm13               | 20240201_verkko_batch3   | 24                   |          |
-| **Total**       |                     |                          | **130**              |          |
-| nBMST           | hg38                | 20230818_verkko_batch1   | 76                   |          |
-| nBMST           | hg38                | 20230927_verkko_batch2   | 30                   |          |
-| nBMST           | hg38                | 20240201_verkko_batch3   | 24                   |          |
-| **Total**       |                     |                          | **130**              |          |
-| Quadron         | chm13               | 20230818_verkko_batch1   | 76                   |          |
-| Quadron         | chm13               | 20230927_verkko_batch2   | 30                   |          |
-| Quadron         | chm13               | 20240201_verkko_batch3   | 24                   |          |
-| **Total**       |                     |                          | **130**              |          |
-| Quadron         | hg38                | 20230818_verkko_batch1   | 76                   |          |
-| Quadron         | hg38                | 20230927_verkko_batch2   | 30                   |          |
-| Quadron         | hg38                | 20240201_verkko_batch3   | 24                   |          |
-| **Total**       |                     |                          | **130**              |          |
+| Annotation Tool | Alignment Reference | Batch                    | Number of Haplotypes |
+|-----------------|---------------------|--------------------------|----------------------|
+| nBMST           | chm13               | 20230818_verkko_batch1   | 76                   |          
+| nBMST           | chm13               | 20230927_verkko_batch2   | 30                   |          
+| nBMST           | chm13               | 20240201_verkko_batch3   | 24                   |          
+| **Total**       |                     |                          | **130**              |          
+| nBMST           | hg38                | 20230818_verkko_batch1   | 76                   |          
+| nBMST           | hg38                | 20230927_verkko_batch2   | 30                   |          
+| nBMST           | hg38                | 20240201_verkko_batch3   | 24                   |          
+| **Total**       |                     |                          | **130**              |          
+| Quadron         | chm13               | 20230818_verkko_batch1   | 76                   |          
+| Quadron         | chm13               | 20230927_verkko_batch2   | 30                   |          
+| Quadron         | chm13               | 20240201_verkko_batch3   | 24                   |         
+| **Total**       |                     |                          | **130**              |          
+| Quadron         | hg38                | 20230818_verkko_batch1   | 76                   |          
+| Quadron         | hg38                | 20230927_verkko_batch2   | 30                   |          
+| Quadron         | hg38                | 20240201_verkko_batch3   | 24                   |          
+| **Total**       |                     |                          | **130**              |          
 
 # Analysis Scripts
 1. `centromere_analysis.ipynb` -
