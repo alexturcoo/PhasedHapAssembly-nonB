@@ -23,14 +23,13 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 | **Total**       |                     |                          | **130**              |          
 
 # Analysis Scripts
-1. `centromere_analysis.ipynb` -
-2. `centromere_analysis_active_asat_hor_arrays.ipynb` -
-3. `chrY_Inverted_Repeat_analysis.ipynb` -
-4. `examine_nonb_annotations_chm13.ipynb` - A jupyter notebook with analysis of Phased Haplotype assembly non-b motif annotations
-5. `hgsvc_phased_haplotype_analysis_final.ipynb` -
-6. `rdna_analysis.ipynb` -  
-7. `shared_nonB_motifs_analysis.ipynb` -
-8. `sv_flank_extraction.ipynb` -
+1. `centromere_analysis.ipynb` - Notebook containing python analysis of centromere annotations across phased haplotype assemblies
+2. `centromere_analysis_active_asat_hor_arrays.ipynb` - Notebook containing python anlysis of active alpha satellite HOR arrays within phased haplotype chromosomes
+3. `examine_nonb_annotations_chm13.ipynb` - Older notebook containing python analysis of Phased Haplotype assembly non-b motif annotations across whole genome
+4. `hgsvc_phased_haplotype_analysis_final.ipynb` - Newer notebook containing python analysis of Phased Haplotype Assembly non-b motif annotations across whole genome
+5. `rdna_analysis.ipynb` - Notebook containing python analysis of ribosomeal DNA arrays across phased haplotype assemblies
+6. `shared_nonB_motifs_analysis.ipynb` - Notebook containing python analysis of shared non-B DNA motifs across haplotypes
+7. `sv_flank_extraction.ipynb` - Notebook containing python test code to extract flanking regions of SVs and MEIs
 
 # preprocessing_scripts_wholegenome
 Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
@@ -63,7 +62,7 @@ Scripts used to annotate centromeres in both reference genomes (GRCh38 and CHM13
 
 # rDNA_scripts
 Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to only T2T-CHM13v2.0 (rDNA arrays unavailable for GRCh38)
-1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype rDNA arrays (Bam files) aligned to chm13v2.0, filter alignments to obtain ONLY primary reads, 
+1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype rDNA arrays (Bam files) aligned to chm13v2.0, filter alignments to obtain ONLY primary reads, then split the bam file by chromosome and write each chromosome bam to a fasta file
 2. 
 3. 
 4.
