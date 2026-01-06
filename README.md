@@ -32,15 +32,31 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 ### EXTRAS
 13. `bedtools_intersect.sh` - Intersect all haplotypes with reference and find common regions across motifs
 
-
 # centromere_processing_scripts
-Scripts used to annotate centromeres in both reference genomes (GRCh38 and CHM13-T2T) AND Verkko Phased Haplotype Assemblies (Batch 1,2,3)
+1. `create_centromere_bed.py` - 
+2. `nonoverlapping_motifs.py` - 
+3. `process_bed_files_chr.py` - 
+4. `process_gquad_beds_quadron.py` -
+5. `process_quadron_files_centromeres.py` -
+6. `quadron_to_bed.py` - 
 
 # flank_extraction_processing_scripts
+1. `add_metadata_free_energy_IRs.py` - 
+2. `add_metadata_quadron.py` - 
+3. `add_metadata.py` - 
+4. `flanks_to_fasta.py` -
+5. `process_combined_quadron_output_flanks.py` -
+6. `sort_svbeds.py` -
+7. `split_mei_callset_flanks_haplotype_beds.py` -
+8. `split_MEI_callset_MEI_sequences.py` - 
 
 # IR_free_energy_processing_seqfold
+1. `MEIs_and_SVs` - 
+2. `whole_genome` - 
 
 # main_figures_and_supplementary_notebooks
+1. `HGSVC_nonB_figures.ipynb` - 
+2. `HGSVC_nonB_supplementary_figures.ipynb` - 
 
 # preprocessing_aligned_assemblies
 Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
