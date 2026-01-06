@@ -5,40 +5,17 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 
 | Annotation Tool | Alignment Reference | Batch                    | Number of Haplotypes |
 |-----------------|---------------------|--------------------------|----------------------|
-| nBMST           | chm13               | 20230818_verkko_batch1   | 76                   |          
-| nBMST           | chm13               | 20230927_verkko_batch2   | 30                   |          
-| nBMST           | chm13               | 20240201_verkko_batch3   | 24                   |          
-| **Total**       |                     |                          | **130**              |          
-| nBMST           | hg38                | 20230818_verkko_batch1   | 76                   |          
-| nBMST           | hg38                | 20230927_verkko_batch2   | 30                   |          
-| nBMST           | hg38                | 20240201_verkko_batch3   | 24                   |          
-| **Total**       |                     |                          | **130**              |          
-| Quadron         | chm13               | 20230818_verkko_batch1   | 76                   |          
-| Quadron         | chm13               | 20230927_verkko_batch2   | 30                   |          
-| Quadron         | chm13               | 20240201_verkko_batch3   | 24                   |         
-| **Total**       |                     |                          | **130**              |          
-| Quadron         | hg38                | 20230818_verkko_batch1   | 76                   |          
-| Quadron         | hg38                | 20230927_verkko_batch2   | 30                   |          
-| Quadron         | hg38                | 20240201_verkko_batch3   | 24                   |          
-| **Total**       |                     |                          | **130**              |          
+| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20230818_verkko_batch1   | 76                   |          
+| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20230927_verkko_batch2   | 30                   |          
+| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20240201_verkko_batch3   | 24                   |                  
+| **Total**       |                     |                          | **130**   |          
 
-# Analysis Scripts
-1. `centromere_analysis.ipynb` - Notebook containing python analysis of centromere annotations across phased haplotype assemblies
-2. `centromere_analysis_active_asat_hor_arrays.ipynb` - Notebook containing python anlysis of active alpha satellite HOR arrays within phased haplotype chromosomes
-3. `examine_nonb_annotations_chm13.ipynb` - Older notebook containing python analysis of Phased Haplotype assembly non-b motif annotations across whole genome
-4. `hgsvc_phased_haplotype_analysis_final.ipynb` - Newer notebook containing python analysis of Phased Haplotype Assembly non-b motif annotations across whole genome
-5. `rdna_analysis.ipynb` - Notebook containing python analysis of ribosomeal DNA arrays across phased haplotype assemblies
-6. `shared_nonB_motifs_analysis.ipynb` - Notebook containing python analysis of shared non-B DNA motifs across haplotypes
-7. `sv_flank_extraction.ipynb` - Notebook containing python test code to extract flanking regions of SVs and MEIs
-
-# preprocessing_scripts_wholegenome
-Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
-1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype assemblies (BAM files) aligned to reference (chm13 or hg38), filter alignments to obtain ONLY primary reads, then split the bam file by chromosome and write each chromosome bam to a fasta file
+# analysis_scripts
+1. `all_analysis_notebooks` - Contains Jupyter Notebooks (.ipynb) related to all analyses performed over the course of this project
+2. `CDKN1A_cruciform_analysis` - Code and associated files used to produce data pertaining to the CDKN1A inverted repeat stability analysis
+3. `flanking_sv_mei_analysis` - Code to create density plots for non-B DNA motifs located in the flanking regions around structural variant breakpoints.
 
 # annotation_scripts_wholegenome
-Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
-
-### nBMST ANNOTATION PROCESSING
 1. `find_nonb_motifs_haplotype_array.sh` - Script to annotate phased haplotype assemblies (alignments) using the non-b gfa tool (nBMST)
 2. `nonoverlapping_motifs.sh` - Script to merge/collapse overlapping intervals for specific non-B motif annotations from non-B motif search tool (nBMST) (outputs collapsed bed file for each specific motif type from nBMST)
 3. `process_bed_files.py` - Script to process collapsed bed files from nBMST and obtain metrics such as Motif Counts, Bases Covered by Motif, and Percentage of Genome covered by motif for each haplotype.
@@ -55,14 +32,17 @@ Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligne
 ### EXTRAS
 13. `bedtools_intersect.sh` - Intersect all haplotypes with reference and find common regions across motifs
 
-# centromere_scripts
+
+# centromere_processing_scripts
 Scripts used to annotate centromeres in both reference genomes (GRCh38 and CHM13-T2T) AND Verkko Phased Haplotype Assemblies (Batch 1,2,3)
 
+# flank_extraction_processing_scripts
 
+# IR_free_energy_processing_seqfold
 
-# rDNA_scripts
-Scripts used to annotate Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to only T2T-CHM13v2.0 (rDNA arrays unavailable for GRCh38)
-1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype rDNA arrays (Bam files) aligned to chm13v2.0, filter alignments to obtain ONLY primary reads, then split the bam file by chromosome and write each chromosome bam to a fasta file
-2. 
-3. 
-4.
+# main_figures_and_supplementary_notebooks
+
+# preprocessing_aligned_assemblies
+Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
+1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype assemblies (BAM files) aligned to reference (chm13 or hg38), filter alignments to obtain ONLY primary reads, then split the bam file by chromosome and write each chromosome bam to a fasta file
+
