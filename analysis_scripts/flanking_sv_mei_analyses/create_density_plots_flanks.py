@@ -267,11 +267,14 @@ def plot_density_per_sv_haplotype(df_sv, df_g4, sv_type, haplotype, save_dir=PLO
 
     # Add plot details
     #plt.axvline(0, color='black', linestyle='--', linewidth=1)
-    plt.title(f"{sv_type} {haplotype}: Density of Motifs and G4 Relative to Breakpoints", fontsize=16)
-    plt.xlabel('Position Relative to SV Breakpoint (bp)', fontsize=14)
-    plt.ylabel('Density', fontsize=14)
+    #plt.title(f"{sv_type} {haplotype}: Density of Motifs and G4 Relative to Breakpoints", fontsize=16)
+    plt.xlabel('Position Relative to SV Breakpoint (bp)', fontsize=12, fontweight='bold')
+    plt.ylabel('Density', fontsize=12, fontweight='bold')
+    # Bold tick labels
+    plt.xticks(fontsize=12, fontweight='bold')
+    plt.yticks(fontsize=12, fontweight='bold')
     plt.xlim(X_LIMITS)
-    plt.legend(title='Type', fontsize=10, title_fontsize=12)
+    plt.legend(title='Motif Type', fontsize=10, title_fontsize=12)
     plt.tight_layout()
 
     # Save plot

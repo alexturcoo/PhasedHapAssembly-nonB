@@ -1,0 +1,28 @@
+[START] Processing DR file index 0
+[RUN] INTER SDs
+[info] Found 130 DR files under /home/alextu/scratch/verkko_batch123_nonb_annotations_aligned_chm13
+[RUN] INTER SDs
+[run] Processing file 0: /home/alextu/scratch/verkko_batch123_nonb_annotations_aligned_chm13/HG00096_hap1/HG00096_hap1_DR.tsv
+[info] Loading: /home/alextu/scratch/verkko_batch123_nonb_annotations_aligned_chm13/HG00096_hap1/HG00096_hap1_DR.tsv
+[info] Filtering DRs by SD intervals ...
+[info] Rows after filter: 86101
+[info]  chunk 0-1000 (size=1000) ... done.
+[info]  chunk 1000-2000 (size=1000) ... done.
+[info]  chunk 2000-3000 (size=1000) ... done.
+[info]  chunk 3000-4000 (size=1000) ... done.
+[info]  chunk 4000-5000 (size=1000) ... done.
+[info]  chunk 5000-6000 (size=1000) ... done.
+[info]  chunk 6000-7000 (size=1000) ... done.
+[info]  chunk 7000-8000 (size=1000) ... done.
+[info]  chunk 8000-9000 (size=1000) ... done.
+[info]  chunk 9000-10000 (size=1000) ... done.
+[info]  chunk 10000-11000 (size=1000) ... done.
+[info]  chunk 11000-12000 (size=1000) ... done.
+[info]  chunk 12000-13000 (size=1000) ... done.
+[info]  chunk 13000-14000 (size=1000) ... done.
+[info]  chunk 14000-15000 (size=1000) ... done.
+[info]  chunk 15000-16000 (size=1000) ... done.
+[info]  chunk 16000-17000 (size=1000) ... done.
+[info]  chunk 17000-18000 (size=1000) ... done.
+[info]  chunk 18000-19000 (size=1000) ... done.
+[info]  chunk 19000-20000 (size=1000) ...

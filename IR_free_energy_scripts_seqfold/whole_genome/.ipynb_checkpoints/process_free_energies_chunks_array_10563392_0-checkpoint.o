@@ -1,0 +1,5 @@
+[info] Found 130 DR files under /home/alextu/scratch/verkko_batch123_nonb_annotations_aligned_chm13
+[run] Processing file 0: /home/alextu/scratch/verkko_batch123_nonb_annotations_aligned_chm13/HG00096_hap1/HG00096_hap1_DR.tsv
+[info] Loading: /home/alextu/scratch/verkko_batch123_nonb_annotations_aligned_chm13/HG00096_hap1/HG00096_hap1_DR.tsv
+[info] Rows: 2701542
+[info]  chunk 0-1000 (size=1000) ...
