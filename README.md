@@ -22,11 +22,21 @@ Instead, it contains the scripts and analysis logic used during an exploratory, 
 | **Total**       |                     |                          | **130**   |          
 
 # 1. preprocessing_aligned_assemblies
-Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL. This is the first script that should be run in order to obtain fasta files for non-B annotation.
+Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL. This is the first script that should be run in order to obtain fasta files for non-B annotation scripts below.
 1. `phased_haplotype_alignments_20230818_verkko_batch1.sh` - Script to take phased haplotype assemblies (BAM files) aligned to reference (chm13 or hg38), filter alignments to obtain ONLY primary reads, then split the bam file by chromosome and write each chromosome bam to a fasta file
 
 # 2. annotation_scripts_wholegenome
 Scripts related to annotating and formatting haplotype level fasta files with non-B gfa and Quadron tools. Most scripts were built for running on high performance computing clusters as they utilize array jobs to speed up the processing time of individual haplotype.
+
+1. `find_nonb_motifs_haplotype_array.sh`
+2. `nonoverlapping_motifs.py`
+3. `run_quadron.sh`
+4. `process_quadron_files.py`
+5. `quadron_to_bed.py`
+6. `process_gquad_beds_quadron.py`
+7. `process_bed_files.py`
+8. `process_bed_files_chr.py`
+9. `process_bed_files_chr_pos.py`
 
 # 3. IR_free_energy_processing_seqfold
 Scripts related to obtaining free energy prediction for IRs using Seqfold tool.
