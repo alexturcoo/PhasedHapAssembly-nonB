@@ -1,5 +1,5 @@
 # PhasedHapAssembly-nonB
-Non-B DNA motif annotation across high quality phased haplotype assemblies
+Non-B DNA motif annotation across 65 high quality phased haplotype assemblies.
 
 # Haplotype Assembly Data Utilized for annotations
 
@@ -16,47 +16,20 @@ Non-B DNA motif annotation across high quality phased haplotype assemblies
 3. `flanking_sv_mei_analysis` - Code to create density plots for non-B DNA motifs located in the flanking regions around structural variant breakpoints.
 
 # annotation_scripts_wholegenome
-1. `find_nonb_motifs_haplotype_array.sh` - Script to annotate phased haplotype assemblies (alignments) using the non-b gfa tool (nBMST)
-2. `nonoverlapping_motifs.sh` - Script to merge/collapse overlapping intervals for specific non-B motif annotations from non-B motif search tool (nBMST) (outputs collapsed bed file for each specific motif type from nBMST)
-3. `process_bed_files.py` - Script to process collapsed bed files from nBMST and obtain metrics such as Motif Counts, Bases Covered by Motif, and Percentage of Genome covered by motif for each haplotype.
-4. `process_bed_files.sh` - Associated shell script to run the python script
-### QUADRON ANNOTATION PROCESSING
-5. `run_quadron.sh` - Script to annotate phased haplotype assemblies (alignments) using quadron
-6. `run_quadron_haplotigs.sh` - Script to annotate phased haplotype assemblies (haplotigs) using quadron
-7. `process_quadron_files.py` - Script to process .txt output from Quadron and format into dataframes with stability score greater than 19
-8. `process_quadron_files.sh` - Associated shell script to run the python script
-9. `quadron_to_bed.py` - Script to format quadron dataframes (Q > 19) into bed files, collapses annotations, and splits bed files based on G quadruplex Strand
-10. `quadron_to_bed.sh` - Associated shell script to run the python script
-11. `process_gquad_beds_quadron.py` - Script to process collapsed bed files from Quadron and obtain metrics of G-quadruplex (Motif Counts, Bases Covered by Motif, and Percentage of Genome covered) for each haplotype
-12. `process_gquad_beds_quadron.sh` - Associated shell script to run the python script
-### EXTRAS
-13. `bedtools_intersect.sh` - Intersect all haplotypes with reference and find common regions across motifs
+Scripts related to annotating and formatting haplotype level fasta files with non-B gfa and Quadron tools. Most scripts were built for running on high performance computing clusters as they utilize array jobs to speed up the processing time of individual haplotype.
 
 # centromere_processing_scripts
-1. `create_centromere_bed.py` - 
-2. `nonoverlapping_motifs.py` - 
-3. `process_bed_files_chr.py` - 
-4. `process_gquad_beds_quadron.py` -
-5. `process_quadron_files_centromeres.py` -
-6. `quadron_to_bed.py` - 
+Scripts related to annotating non-B DNA structures in completely assembled centromeres using non-B gfa and Quadron tools. Most scripts were built for running on high performance computing clusters as they utilize array jobs to speed up the processing time of individual haplotype.
 
 # flank_extraction_processing_scripts
-1. `add_metadata_free_energy_IRs.py` - 
-2. `add_metadata_quadron.py` - 
-3. `add_metadata.py` - 
-4. `flanks_to_fasta.py` -
-5. `process_combined_quadron_output_flanks.py` -
-6. `sort_svbeds.py` -
-7. `split_mei_callset_flanks_haplotype_beds.py` -
-8. `split_MEI_callset_MEI_sequences.py` - 
+Scripts related to extracting 2000bp flanks surrounding structural variants (SVs) and mobile element insertions (MEIs) from individual haplotypes. 
 
 # IR_free_energy_processing_seqfold
-1. `MEIs_and_SVs` - 
-2. `whole_genome` - 
+Scripts related to obtaining free energy prediction for IRs using Seqfold tool.
 
 # main_figures_and_supplementary_notebooks
-1. `HGSVC_nonB_figures.ipynb` - 
-2. `HGSVC_nonB_supplementary_figures.ipynb` - 
+1. `HGSVC_nonB_figures.ipynb` - Contains Jupyter Notebooks (.ipynb) related to analyses that made it into the main paper.
+2. `HGSVC_nonB_supplementary_figures` - Contains Jupyter Notebooks (.ipynb) related to analyses that made it into the Supplementaries.
 
 # preprocessing_aligned_assemblies
 Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL
