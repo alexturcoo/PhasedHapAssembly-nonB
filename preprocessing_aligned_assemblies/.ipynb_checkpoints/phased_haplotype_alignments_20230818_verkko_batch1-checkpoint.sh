@@ -11,22 +11,21 @@
 #SBATCH --error=run_phased_hap_alignment_fasta.e
 
 
-### THIS SCRIPT TAKES PHASED HAPLOTYPE ASSEMBLY ALIGNMENTS FROM
-### 20230818_verkko_batch1 (along with batch 2 and 3) HGSVC SAMPLES AND CONVERTS THE ALIGNMENTS
-### INTO FASTQ FILES WITH CHROMOSOME ANNOTATION FOR DOWNSTREAM ANALYSIS
+### THIS SCRIPT TAKES PHASED HAPLOTYPE ASSEMBLY ALIGNMENTS FROM HGSVC3 VERKKO ALIGNED ASSEMBLIES BATCH 1,2,3
+### CONVERTS THE ALIGNMENTS INTO FASTA FILES WITH CHROMOSOME ANNOTATION FOR DOWNSTREAM ANALYSIS
+### Output will give you filtered BAM files as well as haplotype level FASTA FILES for non-B Annotation
 
 module load samtools
 module load bamtools
 
-
 # Set the base directory containing subdirectories for each sample type
-base_dir="/home/alextu/scratch/20240201_verkko_batch3_alignments_hg38"
+base_dir="/path/to/samples/folder/"
 
 # Specify the output base directory for filtered BAM files
-bam_output_base="/home/alextu/scratch/filtered_chr_bams/20240201_verkko_batch3_align_hg38"
+bam_output_base="/path/to/bam/outputfolder/"
 
 # Specify the output base directory for FASTA files
-fasta_output_base="/home/alextu/scratch/filtered_chr_fasta/20240201_verkko_batch3_align_hg38"
+fasta_output_base="/path/to/fasta/outputfolder/"
 
 # Loop over subdirectories (each corresponding to a sample type)
 for sample_dir in "${base_dir}"/*/; do

@@ -8,16 +8,18 @@
 #SBATCH --mail-user=alexanderturco1@gmail.com
 #SBATCH --output=run_quadron_%A_%a.o
 #SBATCH --error=run_quadron_%A_%a.e
-#SBATCH --array=0-14  # Modify this based on the number of directories
+#SBATCH --array=0-129  # Modify this based on the number of directories
+
+### This script takes fasta files and runs the quadron tool (G4 detection) using an array job for each sample
 
 module load gcc r
 module load openmpi
 
 # Base directory containing the subdirectories of FASTA files
-BASE_DIR="/home/alextu/scratch/filtered_chr_fasta/hg38/20240201_verkko_batch3_align_hg38"
+BASE_DIR="/path/to/fasta/files/directory"
 
 # Output directory
-OUTPUT_DIR="/home/alextu/scratch/nonb_motif_annotations_hgsvc/hg38/20240201_verkko_batch3_quadron_annotations_aligned_hg38"
+OUTPUT_DIR="/path/to/quadron/annotations"
 
 # Get list of directories
 directories=("$BASE_DIR"/HG* "$BASE_DIR"/NA*)

@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+### This script generates genome-statistics per haplotype for Quadron based annotations.
+
 def get_genome_size(fasta_file, exclude_ns=False):
     """Calculate the total size of the genome from a fasta file."""
     total_size = 0

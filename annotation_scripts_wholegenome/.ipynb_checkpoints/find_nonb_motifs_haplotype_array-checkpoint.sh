@@ -8,13 +8,15 @@
 #SBATCH --mail-user=alexanderturco1@gmail.com
 #SBATCH --output=find_nonb_motifs_hap1_%A_%a.o
 #SBATCH --error=find_nonb_motifs_hap1_%A_%a.e
-#SBATCH --array=0-3   # Modify this based on the number of samples
+#SBATCH --array=0-129   # Modify this based on the number of samples
+
+### This script takes a folder of fasta files and runs the non-B gfa (APR, DR, MR, IR, Z) tool using an array job for each sample
 
 # Directory containing input FASTA files
-INPUT_DIR="/home/alextu/scratch/haplotigs_fastas_hgsvc_verkko123/all_fastas"
+INPUT_DIR="/path/to/fasta/folder/"
 
 # Output directory for non-B DNA annotations
-OUTPUT_DIR="/home/alextu/scratch/nonb_motif_annotations_hgsvc/verkko_123_haplotigs/"
+OUTPUT_DIR="/path/to/nonbgfa/annotations/"
 
 # Get list of input files
 files=("$INPUT_DIR"/*.fasta)

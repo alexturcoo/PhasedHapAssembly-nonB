@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+# This script generates statistics for collapsed non-B gfa motif annotations per haplotype
+
 def get_genome_size(fasta_file, exclude_ns=False):
     """Calculate the total size of the genome from a fasta file."""
     total_size = 0
