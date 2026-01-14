@@ -74,7 +74,11 @@ Scripts related to annotating non-B DNA structures in completely assembled centr
 5. `process_bed_files_chr.py` - Script to produce centromere level non-B gfa annotation metrics for each haplotype (results outputted in single.csv)
 
 # 5. flank_extraction_processing_scripts
-Scripts related to extracting 2000bp flanks surrounding structural variants (SVs) and mobile element insertions (MEIs) from individual haplotypes. 
+Scripts related to extracting 2000bp flanks surrounding structural variants (SVs) and mobile element insertions (MEIs) from individual haplotypes.
+
+1. `extract_flanks_newest_arrayjob.sh` - Script to extract haplotype specific 2000bp flanking regions around SVs and MEIs into a .csv file
+2. `flanks_to_fasta.py` - Script to turn .csv file containing flank information into .fasta file for non-B gfa and Quadron annotations
+3. `add_metadata.py` - Script to append SV and MEI metadata to flank information
 
 # 6. analysis_scripts
 1. `all_analysis_notebooks` - Contains Jupyter Notebooks (.ipynb) related to all analyses performed over the course of this project
