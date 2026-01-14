@@ -32,9 +32,9 @@ Scripts related to annotating and formatting haplotype level fasta files with no
 2. `nonoverlapping_motifs.py` - Script to collapse and merge overlapping intervals for non-B gfa annotations
 3. `run_quadron.sh` - Script to run Quadron tool (G4s) on fastas produced from aligned assemblies
 4. `process_quadron_files.py` - Script to convert Quadron produced .txt files into .csv files for easier manipulation
-5. `quadron_to_bed.py` - Script to convert quadron .csv files in .bed files for collapsing and merging overlapping G4 annotations
-6. `process_gquad_beds_quadron.py`
-7. `process_bed_files.py`
+5. `quadron_to_bed.py` - Script to merge and collapse overlapping G4 annotations and convert quadron .csv files in .bed files
+6. `process_gquad_beds_quadron.py` - Script to produce genome-wide collapsed quadron G4 metrics across all haplotypes
+7. `process_bed_files.py` - Script to produce genome-wide collapsed non-B gfa annotation metrics across all haplotypes
 8. `process_bed_files_chr.py`
 9. `process_bed_files_chr_pos.py`
 
@@ -48,7 +48,7 @@ Scripts related to annotating non-B DNA structures in completely assembled centr
 2. `extract_haplotype_centromeres.sh` - Script to extract completely and accurately assembled centromeres from full haplotype fastas files (not alignment produced fastas)
 3. `find_nonb_motifs_haplotype_array.sh` - Script to run non-B gfa tool (APR, MR, DR, IR, Z) on fastas produced from aligned assemblies (In Centromeres)
 4. `nonoverlapping_motifs.py` - Script to collapse and merge overlapping intervals for non-B gfa annotations
-5. `process_bed_files_chr.py`
+5. `process_bed_files_chr.py` - Script to produce centromere level non-B gfa annotation metrics for each haplotype (results outputted in single.csv)
 
 # 5. flank_extraction_processing_scripts
 Scripts related to extracting 2000bp flanks surrounding structural variants (SVs) and mobile element insertions (MEIs) from individual haplotypes. 
