@@ -10,6 +10,8 @@
 #SBATCH --output=extract_haplotype_centromeres.o
 #SBATCH --error=extract_haplotype_centromeres.e
 
+# This script extracts complete and accurately assembled chromosomes from full haplotype fasta files (not alignment based fastas).
+
 module load StdEnv/2020 seqtk
 
 # Define the directories
