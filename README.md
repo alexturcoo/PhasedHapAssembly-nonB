@@ -41,6 +41,9 @@ Scripts related to annotating and formatting haplotype level fasta files with no
 # 3. IR_free_energy_processing_seqfold
 Scripts related to obtaining free energy prediction for IRs using Seqfold tool.
 
+1. `MEIs_and_SVs/process_free_eneries_chunks_array.py` - Script to calculate predicted free energy for inverted repeats using Seqfold from MEI and SV annotations (use non-B gfa annotation tsvs)
+2. `whole_genome/process_free_energies_chunks_array_wholegenome.py` - Script to calculate predicted free energy for inverted repeats using Seqfold from MEI and SV annotations (use non-B gfa annotation tsvs)
+
 # 4. centromere_processing_scripts
 Scripts related to annotating non-B DNA structures in completely assembled centromeres using non-B gfa and Quadron tools. Most scripts were built for running on high performance computing clusters as they utilize array jobs to speed up the processing time of individual haplotype.
 
