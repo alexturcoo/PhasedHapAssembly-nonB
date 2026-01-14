@@ -34,12 +34,12 @@ This project integrates several established tools for non-B DNA motif annotation
 
 # Haplotype Assembly Data Utilized for annotations
 
-| Annotation Tool | Alignment Reference | Batch                    | Number of Haplotypes |
-|-----------------|---------------------|--------------------------|----------------------|
-| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20230818_verkko_batch1   | 76                   |          
-| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20230927_verkko_batch2   | 30                   |          
-| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20240201_verkko_batch3   | 24                   |                  
-| **Total**       |                     |                          | **130**   |          
+| Annotation Tool | Alignment Reference | Batch                    | Number of Haplotypes | Data Source |
+|-----------------|---------------------|--------------------------|----------------------|-------------|
+| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20230818_verkko_batch1   | 76                   | [Verkko Batch 1](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/HGSVC3/working/20230818_verkko_batch1/) |
+| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20230927_verkko_batch2   | 30                   | [Verkko Batch 2](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/HGSVC3/working/20230927_verkko_batch2/) |
+| nBMST & Quadron | CHM13v2.0 & GRCh38  | 20240201_verkko_batch3   | 24                   | [Verkko Batch 3](https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/HGSVC3/working/20240201_verkko_batch3/) |
+| **Total**       |                     |                          | **130**              |             |
 
 # 1. preprocessing_aligned_assemblies
 Scripts used to preprocess Verkko Phased Haplotype Assemblies (Batch 1,2,3) aligned to both T2T-CHM13v2.0 and GRCh38 at the WHOLE GENOME LEVEL. This is the first script that should be run in order to obtain fasta files for non-B annotation scripts below.
