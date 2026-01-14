@@ -16,7 +16,7 @@ module load StdEnv/2020 seqtk
 
 # Define the directories
 BED_DIR="/home/alextu/scratch/centromere_analysis/CEN_COORD_UPDATED_Aug7_logsdon/haplotype_level_beds_complete_and_accurate_active_asat_HOR_arrays"
-FASTA_DIR="/home/alextu/scratch/verkko_batch123_haplotig_fastas"
+FASTA_DIR="/path/to/fully/assembled/fastas"
 OUTPUT_DIR="/home/alextu/scratch/centromere_analysis/haplotype_centromere_fastas_active_asat_HOR_arrays"
 
 mkdir -p "$OUTPUT_DIR"
