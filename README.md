@@ -12,6 +12,26 @@ This repository is not intended to function as a standalone software tool or aut
 
 Instead, it contains the scripts and analysis logic used during an exploratory, multi-stage research project. Scripts were executed independently or in small groups depending on the specific analysis (e.g., motif annotation, stability modeling, enrichment testing, visualization).
 
+## Tools Used
+
+This project integrates several established tools for non-B DNA motif annotation, structural stability prediction, and centromere profiling.
+
+- **Quadron**  
+  Predicts G-quadruplex (G4)–forming sequences and assigns stability scores (Q-scores) based on polymerase stalling signatures derived from experimental G4-seq data.  
+  GitHub: <https://github.com/aleksahak/Quadron>
+
+- **Non-B gfa (Non-B Motif Search Tool)**  
+  Annotates canonical non-B DNA motif classes, including inverted repeats (IR), mirror repeats (MR), direct repeats (DR), A-phased repeats (APR), and Z-DNA, using sequence-based pattern definitions.  
+  GitHub: <https://github.com/abcsFrederick/non-B_gfa>
+
+- **seqfold**  
+  Computes minimum free energy (MFE) estimates for inverted repeat sequences, providing a thermodynamic proxy for cruciform-forming stability.  
+  GitHub: <https://github.com/Lattice-Automation/seqfold>
+
+- **Genomic Centromere Profiling (GCP)**  
+  Used for centromere-specific analyses, including CENP-B box annotation, alpha-satellite monomer classification, and higher-order repeat (HOR) organization.  
+  GitHub: <https://github.com/GiuntaLab/GCP-Centeny>
+
 # Haplotype Assembly Data Utilized for annotations
 
 | Annotation Tool | Alignment Reference | Batch                    | Number of Haplotypes |
