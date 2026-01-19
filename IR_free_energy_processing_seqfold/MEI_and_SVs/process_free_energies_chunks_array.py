@@ -10,6 +10,15 @@ OUTPUT_FOLDER = "/home/alextu/scratch/free_energy_IRs_MEI_sequence"
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 def calculate_free_energy(sequence):
+    """
+    Calculates the free energy (kcal/mol) of a nucleotide sequence at 37°C.
+
+    Parameters:
+        sequence (str): DNA sequence.
+
+    Returns:
+        float: Free energy value, or None if calculation fails.
+    """
     try:
         return dg(sequence, temp=37.0)
     except Exception as e:
@@ -21,6 +30,18 @@ def process_chunk(chunk):
     return chunk
 
 def process_file_in_chunks(input_file, output_folder, num_cores=NUM_CORES, chunk_size=1000):
+    """
+    Processes a TSV file containing DNA sequences in parallel chunks and calculates their free energy.
+
+    Parameters:
+        input_file (str): Path to the input .tsv file with sequence data.
+        output_folder (str): Path to the folder where results will be saved.
+        num_cores (int): Number of CPU cores to use.
+        chunk_size (int): Number of rows per chunk to process.
+
+    Output:
+        Writes a new TSV file with calculated free energy per sequence.
+    """
     df = pd.read_csv(input_file, sep="\t")
     required_columns = ["Sequence_name", "Start", "Stop", "Length", "Sequence"]
     if not all(col in df.columns for col in required_columns):

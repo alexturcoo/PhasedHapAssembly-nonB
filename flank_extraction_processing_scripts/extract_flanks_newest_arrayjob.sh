@@ -18,27 +18,18 @@ bed_dir="/home/alextu/scratch/SVcoords_sorted"
 bam_dir="/home/alextu/scratch/primary_bams_hgsvc3_verkko123"
 output_dir="/home/alextu/scratch/extract_sv_flanks_2000bp/extracted_flanks"
 
-# Get all BAM files and sort them
+# sort bams
 bam_files=($(ls ${bam_dir}/*hap*.bam | sort))
 
-# Debugging: Print the list of BAM files
-echo "BAM files found: ${bam_files[@]}" >&2
-
-# Get the BAM file for the current array task
+# current array task
 bam_file="${bam_files[$SLURM_ARRAY_TASK_ID - 1]}"
 
-# Debugging: Print the current BAM file being processed
-echo "Processing BAM file: $bam_file" >&2
-
-# Extract sample name and haplotype from BAM file (e.g., HG00171_hap1_primary.bam)
+# Extract sample name and haplotype from BAM file
 sample_haplotype=$(basename "$bam_file" | cut -d'_' -f1,2)
 
-# Debugging: Print the extracted sample and haplotype
-echo "Extracted sample and haplotype: $sample_haplotype" >&2
-
 # Extract the sample name and haplotype separately
-sample_name=$(echo "$sample_haplotype" | cut -d'_' -f1)  # e.g., HG00171
-haplotype=$(echo "$sample_haplotype" | cut -d'_' -f2)    # e.g., hap1
+sample_name=$(echo "$sample_haplotype" | cut -d'_' -f1)
+haplotype=$(echo "$sample_haplotype" | cut -d'_' -f2) 
 
 # Map the haplotype to the corresponding BED file
 if [[ "$haplotype" == "hap1" ]]; then
@@ -47,16 +38,16 @@ else
     bed_file="${bed_dir}/${sample_name}.h2.SVlength.SVcoords2000flank_bedtools.bed"
 fi
 
-# Output file for the current sample and haplotype
+# Output file for current sample and haplotype
 output_file="${output_dir}/${sample_name}_${haplotype}_SVflanks.csv"
 
-# Add the header to the CSV file
+# Add header to the CSV file
 echo "Region,SV Type,Flanking Sequence,Flank Length" > "$output_file"
 
-# Temporary file for this task
+# Temporary file for task
 temp_fasta="/home/alextu/scratch/extract_sv_flanks_2000bp/temp_${sample_name}_${haplotype}.fa"
 
-# Index the BAM file if not already indexed
+# Index BAM file
 samtools index -b "$bam_file"
 
 # Function to calculate the sequence length
@@ -64,12 +55,12 @@ get_seq_length() {
     grep -v "^>" "$temp_fasta" | tr -d '\n' | wc -c
 }
 
-# Function to read the sequence from the FASTA file
+# Function to read sequence from the FASTA file
 get_sequence() {
     grep -v "^>" "$temp_fasta" | tr -d '\n'
 }
 
-# Function to generate the consensus sequence using samtools
+# Function to generate consensus sequence using samtools
 generate_consensus() {
     local region="$1"
     >&2 echo "Generating consensus for region: $region"

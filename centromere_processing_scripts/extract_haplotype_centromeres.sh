@@ -1,11 +1,11 @@
 #!/bin/bash
 #SBATCH --account=def-sushant
-#SBATCH --nodes=1 # specify number of gpus
+#SBATCH --nodes=1
 #SBATCH --cpus-per-task=1
 #SBATCH --mem=48G # MEMORY PER NODE
-#SBATCH --time=20:00:00 # hrs:mins:secs
+#SBATCH --time=20:00:00
 #SBATCH --mail-type=ALL
-#SBATCH --mail-user=alexanderturco1@gmail.com # sends me an email once done
+#SBATCH --mail-user=alexanderturco1@gmail.com
 #SBATCH --job-name=extract_haplotype_centromeres
 #SBATCH --output=extract_haplotype_centromeres.o
 #SBATCH --error=extract_haplotype_centromeres.e

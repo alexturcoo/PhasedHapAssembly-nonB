@@ -2,7 +2,6 @@ import pandas as pd
 import glob
 import os
 
-# Load the main CSV file
 main_df = pd.read_csv('/home/alextu/scratch/mei_analysis/MEIflanks_collapsed_summary_metrics_chr_position.csv')
 
 # Extract the identifier part from 'Sample_Haplotype_Chromosome' for easier matching
@@ -11,9 +10,6 @@ main_df['Identifier'] = main_df['Sample_Haplotype_Chromosome'].apply(lambda x: x
 
 # Replace 'h1' and 'h2' with 'hap1' and 'hap2' in Sample_Haplotype for consistency
 main_df['Sample_Haplotype'] = main_df['Sample_Haplotype'].str.replace('h1', 'hap1').str.replace('h2', 'hap2')
-
-# Print the first few rows of the main DataFrame for verification
-print("Initial main DataFrame sample:\n", main_df.head())
 
 # Path to all BED files
 bed_files_path = '/home/alextu/scratch/mei_analysis/mei_hap_specific_beds_flanks_withdesignations/*.bed'
