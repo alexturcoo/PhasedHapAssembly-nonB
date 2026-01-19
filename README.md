@@ -55,8 +55,6 @@ Scripts related to annotating and formatting haplotype level fasta files with no
 5. `quadron_to_bed.py` - Script to merge and collapse overlapping G4 annotations and convert quadron .csv files in .bed files
 6. `process_gquad_beds_quadron.py` - Script to produce genome-wide collapsed quadron G4 metrics across all haplotypes
 7. `process_bed_files.py` - Script to produce genome-wide collapsed non-B gfa annotation metrics across all haplotypes
-8. `process_bed_files_chr.py`
-9. `process_bed_files_chr_pos.py`
 
 # 3. IR_free_energy_processing_seqfold
 Scripts related to obtaining free energy prediction for IRs using Seqfold tool.
